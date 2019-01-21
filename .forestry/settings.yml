@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Home
   create: all
-  match: "/index.html"
+  match: index.html
 - type: directory
   path: content/blog
   label: Blog
