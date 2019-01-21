@@ -1,0 +1,29 @@
+{{ partial "meta.html" . }}
+{{ partial "header.html" . }}
+
+
+<!-- Main view -->
+  
+<div id="blog" class="layout">
+	<!--
+	<aside class="animated fadeInLeft">
+		<h3>Categories</h3><br>
+		<ul>
+			<li><a href="/blog">All Categories</a></li>
+			{{ range $key, $value := .Site.Taxonomies.categories }}
+			<li><a href="/categories/{{ $key | urlize }}">{{ $key | title }}</a></li>
+    {{ end }}
+		</ul>
+	</aside>
+	-->
+  <main>	
+		<h1 class="animated fadeInUp">{{ .Title }}</h1>
+	  <div class="articles animated fadeInUp">
+		  {{ range .Pages.ByWeight }}	  
+		  	{{ .Render "li" }}
+		  {{ end }}
+	  </div>
+  </main>
+</div>
+
+{{ partial "footer.html" . }}

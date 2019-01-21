@@ -1,0 +1,54 @@
+#blog{
+	background: #D3EFFE;
+	background-image: url("/img/home-hero.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+	h1{
+		color: white;
+	}
+	article{
+		border-radius: 18px;
+	}
+
+	main{
+		max-width: 1300px;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	aside{
+		display: none;
+		z-index: 2;
+	}
+} 
+@media (min-width:640px){
+#blog{
+	main{
+		/*padding-left: 300px;*/
+	}
+	aside{
+		display: block;
+		float: left;
+		position: fixed;
+		top: 0;
+		padding: 120px $space-e 400px;
+		box-sizing: border-box;
+		overflow-y: scroll;
+		height: 100vh;
+		@include card-layer2;
+
+		ul{
+			padding-left: 0;
+		}
+		li{
+			list-style: none;
+			a{
+				font-size: 14px;
+				line-height: 1;
+			}
+		} 
+	}
+} 
+}

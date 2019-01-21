@@ -1,0 +1,113 @@
+
+//  Colors
+
+$black: #46464B;
+$text: #46464B;
+$text-secondary: #8C8C8C;
+$white: #ffffff;
+$primary: #8CE1D2;
+$dividing-line: solid 1px #d2d2d2;
+$blue: #3C96E6;
+$green: #20A84A;
+$red: #B41E24;
+
+// End Colors
+
+// Spacing Guide
+
+// Use for creating consistent spacing between elements
+// Avoiding using these when finessing spacing at a micro level
+// space-d is most frequently used and is used for spacing groups of elements or text and is the general spacing for side padding especially side padding/margins on mobile
+
+$space-a: 4px;
+$space-b: 8px;
+$space-c: 12px;
+$space-d: 16px;
+$space-e: 24px;
+$space-f: 32px;
+$space-g: 44px;
+$space-h: 60px;
+
+// End Spacing Guide
+
+
+// Borders, Strokes, and Dividers
+
+hr{
+    border:$dividing-line;
+    margin-top: $space-e;
+    margin-bottom: $space-e;
+    border-bottom: none;
+}
+
+// End Borders, Strokes, and Dividers
+
+// End Spacing Guide
+
+// Card Styles
+
+$radius: 3px;
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+$radius-round: 100px;
+@mixin border-radius($radius-round) {
+  -webkit-border-radius: $radius-round;
+     -moz-border-radius: $radius-round;
+      -ms-border-radius: $radius-round;
+          border-radius: $radius-round;
+}
+@mixin card-layer0{
+    box-shadow: none;
+    background-color:$white;
+}
+@mixin card-layer1{
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
+    background-color:$white;
+}
+@mixin card-layer2{
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.25);
+    background-color:$white; 
+}
+@mixin card-layer3{
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.25);
+    background-color:$white;
+}
+.card-layer0{
+    box-shadow: none;
+    background-color:$white;
+}
+.card-layer1{
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
+    background-color:$white;
+}
+.card-layer2{
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.25);
+    background-color:$white;
+}
+
+// End Card Styles
+
+// Style Add-ons
+.desktop{  display: block; }
+.mobile{ display: none; }
+
+@media screen and (max-width: 540px) {
+.desktop{ display: none; }
+.mobile{ display: block; }
+}
+
+
+// Global
+html{
+    background: white;
+    width: 100%;
+}
+img{
+    max-width: 100%;
+}
+
+// End Global

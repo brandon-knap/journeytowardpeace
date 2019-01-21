@@ -1,0 +1,5 @@
+baseurl = "http://journeytowardpeace.com/"
+languageCode = "en-us"
+pluralizelisttitles = "false"
+title = "Journey Toward Peace"
+copyright = "© Journey Toward Peace {year}"

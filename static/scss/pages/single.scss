@@ -1,0 +1,114 @@
+#blog-post{
+	background: #D3EFFE;
+	background-image: url("/img/world-map2.svg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+    main{
+        max-width: 1000px;
+        padding: 0;
+
+        .post-header{
+            padding: 0 $site-padding;
+        }
+
+        h1:after{
+            content: "";
+            display: table;
+            background: $primary;
+            height: 4px;
+            width: 80px;
+            margin: 32px 0 40px;
+        }
+        .content{
+            @include card-layer2;
+            border-radius: 18px;
+            padding: $space-f $site-padding $space-g;
+
+            h3{
+                font-size: 23px;
+                line-height: 1.25;
+            }
+            h4{
+                font-size: 18px;
+                line-height: 1.4;
+            }
+            p,blockquote, ul, ol{
+                font-size: 18px;
+                line-height: 1.7;
+                margin-bottom: 32px;
+                color: #666666;
+            }
+            li{
+                font-size: 18px;
+                line-height: 1.7;
+            }
+
+            a{
+                color: $primary;
+                font-weight: bold;
+                }
+
+            img{
+                max-width: 100%;
+            }
+            blockquote{
+                font-style: italic;
+                margin: 0 0 26px;
+                padding: 0 0 0 20px;
+                border-left: solid 3px $black;
+                box-sizing: border-box;
+            }
+            figure{
+                margin-left: 0;
+                margin-right: 0;
+            }
+            iframe{
+                width: 100%;
+                max-width: 100%;
+            }
+        }
+        .post-tag{
+            background: #eeeeee;
+            padding: 10px 12px;
+            margin-left: $space-a;
+            margin-bottom: $space-c;
+            display: inline-block;
+            @include border-radius($radius);
+            color: $black;
+        }
+        .post-tag:hover{
+            background: #dddddd;
+        }
+        .post-tag:active{
+            background: #cccccc;
+        }
+    }
+}
+@media (min-width:640px){
+#blog-post{
+    main{
+        padding: 0 $site-padding;
+
+        .content{
+            h3{
+                font-size: 26px;
+            }
+            h4{
+                font-size: 20px;
+            }
+            p, blockquote, ul, ol{
+                font-size: 20px;
+                line-height: 1.9;
+                margin-bottom: 40px;
+            }
+            li{
+                font-size: 20px;
+                line-height: 1.9;
+            }
+        }
+    }
+}
+}

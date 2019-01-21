@@ -1,0 +1,23 @@
++++
+categories = ["Global Education & Skills Forum", "Oley Dibba-Wadda", "ed tech innovations", "U.N. 2015 Population Revision Report", "African education gaps"]
+date = "2018-03-25T19:01:11Z"
+description = "This is the second installment in a series of posts that explore the significance of digital technology for education and learning in Africa and elsewhere around the developing world."
+title = "What Does Digital Disruption Mean for Education and Learning? Part 2"
+weight = 2
+
++++
+_This is the second installment in a series of posts that explore the significance of digital technology for education and learning in Africa and elsewhere around the developing world._
+
+## Global Education & Skills Forum
+
+Last weekend, 3,000 people converged on Dubai for what is often called the Davos of global education. At the Global Education & Skills Forum, the global education community—long ignored, underfunded, thought to be slow and out of step with the mainstream—[showed a propensity for change and innovation](https://www.devex.com/news/the-future-of-education-it-s-coming-but-will-it-get-here-fast-enough-92417?mkt_tok=eyJpIjoiTTJObE5qQTJPV0UzWWpZMiIsInQiOiJsVG9BaVJjWVc4eEFQSkJmU25lXC9haVdXS0R1Uko1R2Y2MW1CQWhwUFlKR0tvQVBlcHM4Q2M5WWM0c1dhdUsxa2pKV3phcWtxUEphMFJNTFF6bjhkSDFLM1VEeGdHYTdcLzh6UWIyWkhOaCtBSWxLQUJBVDlqaCtpUFwvZjdaRlFRTCJ9).
+
+And, according to [Oley Dibba-Wadda](https://www.youtube.com/watch?v=Z2hVmwboNqc&feature=youtu.be&mkt_tok=eyJpIjoiTTJObE5qQTJPV0UzWWpZMiIsInQiOiJsVG9BaVJjWVc4eEFQSkJmU25lXC9haVdXS0R1Uko1R2Y2MW1CQWhwUFlKR0tvQVBlcHM4Q2M5WWM0c1dhdUsxa2pKV3phcWtxUEphMFJNTFF6bjhkSDFLM1VEeGdHYTdcLzh6UWIyWkhOaCtBSWxLQUJBVDlqaCtpUFwvZjdaRlFRTCJ9), director of human capital, youth & skills development, African Development Bank (AfDB), both change and innovation are desperately needed in African education. “The main fundamental issue \[the African continent\] is struggling with now is educational quality,” she states. Lack of quality in education perpetuates “the mismatch between the world of education and the world of work.” AfDB’s emphasis has shifted now to education quality and skill development that leads to job creation. Its vision is to create 25 million jobs that will impact 50 million people over the next ten years.
+
+In Ghana, for example, 100,000 children drop out of school each year at the age of 15, just before entering their senior year in high school. This statistic is arresting all by itself, but when placed against the backdrop of Africa’s emerging demographic explosion, it becomes a matter of critical importance. According to the [2015 Revision Report](https://esa.un.org/unpd/wpp/publications/files/key_findings_wpp_2015.pdf), World Population Prospects, by the United Nations, “More than half of global population growth between now and 2050 is expected to occur in Africa…. of the additional 2.4 billion people projected to be added to the global population between 2015 and 2050, 1.3 billion will be added in Africa.”
+
+How will they be educated and what jobs will there be for them? The short answers are that new educational technologies will play a significant role in how people are educated, and youth will need to create their own jobs in order to stay ahead of the employment demand curve. And that, in turn, means new skill development, [personal initiative training](http://www.worldbank.org/en/news/feature/2018/01/18/new-mindset-increased-profits-lessons-from-an-innovative-entrepreneurial-training-in-togo "New Mindset, Increased Profits: Lessons from an Innovative Entrepreneurial Training in Togo"), and [m-learning in the form of SME training academies](https://themarketmogul.com/m-learning-african-education/ "M-Learning: A Growing Force in African Education") must become a significant focal point of the African educational ecosystem.
+
+Not surprisingly, there was a lot of talk at the Forum about addressing these challenges using new educational technologies, so called ed tech. M-learning is one of the most promising ed tech innovations. There is general agreement around five big educational gaps: **Access** (some 250 million children are not in school); **Quality** (another 600 million aren’t learning); **Financial** ($39 billion per year in donor funding is needed); **Workforce** (demand for teachers will double by 2030); and **Leadership** (education ministers typically lack political capital to make reforms).
+
+In addition to these gaps, there are three major challenges that education innovators are trying to address. We’ll unpack those challenges in our next installment.

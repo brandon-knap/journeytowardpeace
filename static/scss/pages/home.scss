@@ -1,0 +1,150 @@
+#home{
+  background-image: url("/img/home-hero.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-color: $primary;
+
+  #read-more{
+    position: absolute;
+    top: -72px;
+  }
+  .home-section{
+    position: relative;
+    padding-bottom: $space-c;
+    background: white;
+  }
+  .home-section:after{
+    @include clearfix;
+  }
+  
+  #home-hero{
+    color: white;
+    height: 100vh;
+    text-align: center;
+    padding-left: $site-padding;
+    padding-right: $site-padding;
+
+    .content{
+      width: 640px;
+      display: inline-block;
+      margin-top:24vh;
+      max-width: 100%;
+
+      h1{
+        font-size:40px;
+        font-weight: 800;
+        margin-bottom: 16px;
+      }
+      .cta{
+        margin-top: 50px;
+        display: inline-block;
+
+        img{
+          margin-top: 0;
+          width: 115px;
+          -webkit-transition: all .2s;
+          transition: all .2s;
+        }
+        img:hover{
+          width: 125px;
+          margin-top:-5px;
+          -webkit-transition: all .2s;
+          transition: all .2s;
+        }
+      }
+      p{
+        font-size:24px;
+        line-height: 1.2;
+      }
+      .btn{ margin-top:16px; }
+      .btn:last-of-type{ margin-right:0; }
+    }
+  }
+  #home-belowfold{
+    background: #D3EFFE;
+    padding-bottom: $space-f;
+    position: relative;
+  }
+  #home-services{
+    padding: 0 $site-padding;
+
+    .service{
+      display: flex;
+      align-items: top;
+
+      img{
+        float: left;
+        width: 100px;
+        margin-top: -8px;
+      }
+      .content{
+        padding-left: 16px;
+      }
+    }
+  }
+  #home-about{
+    padding: 0 $site-padding 30px;
+
+    img{
+      width: 100%;
+    }
+  }
+}
+
+@media (min-width:640px){
+#home{
+  #home-hero{
+    .content{
+      margin-top:35vh;
+
+      h1{ font-size: 48px; }
+    }   
+  }
+  #home-about{
+    padding-bottom: 80px;
+    text-align: center;
+
+    img{
+      width: 35%;
+      display: inline-block;
+      vertical-align: top;
+    }
+    .content{
+      width: 55%;
+      display: inline-block;
+      vertical-align: top;
+      text-align: left;
+      padding-left: 5%;
+    }
+  }
+}
+}
+@media (min-width:720px){
+#home{
+  #home-belowfold{
+    padding-bottom: 0;
+  }
+}
+}
+@media (min-width:815px){
+#home{
+  #home-services{
+    .service{
+      width: 50%;
+      float: left;
+      margin-bottom: 24px;
+      align-items: center;
+
+      img{
+        width: 120px;
+        margin-top: 0;
+      }
+      .content{
+        padding-right: 24px;
+      }
+    }
+  }
+}
+}
