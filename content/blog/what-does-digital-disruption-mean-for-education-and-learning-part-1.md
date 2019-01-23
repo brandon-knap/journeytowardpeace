@@ -2,7 +2,7 @@
 categories = ["Digital Education", "Sub-Saharan Africa", "Shankar Maruwada", "\"just in time expertise\"", "micro-learning"]
 date = "2018-03-22T16:47:08Z"
 description = "This is the first installment in a series of posts that will explore the significance of digital education for the direction that education and learning is headed in Africa and elsewhere around the developing world."
-title = "YO What Does Digital Disruption Mean for Education and Learning? Part 1"
+title = "What Does Digital Disruption Mean for Education and Learning? Part 1"
 weight = 1
 
 +++
