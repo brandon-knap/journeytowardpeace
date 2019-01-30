@@ -6,7 +6,7 @@ title = "What Does Digital Disruption Mean for Education and Learning? Part 1"
 weight = 1
 
 +++
-_This is the first installment in a series of posts that explore the significance of digital technology for education and learning in Africa and elsewhere around the developing world. There's no question that mobile technology, the scarcity of bricks and mortar educational institutions, the emerging new wave of population explosion, and the cost and availability of formal education at all levels are the critical factors driving change and digital disruption. The big unanswered questions are what does it all mean now and what will it likely mean in the medium and long term?_
+_This is the first installment in a series of posts that explore the significance of digital technology for education and learning in Africa and elsewhere around the developing world. There's no question that mobile technology, the scarcity of bricks and mortar educational institutions, the emerging new wave of population explosion, and the cost and availability of formal education at all levels are the critical factors driving change and digital disruption. The big unanswered questions are what does it all mean now and what will it likely mean in the medium and long term?_ 
 
 ## Where Disruption Is Headed
 
