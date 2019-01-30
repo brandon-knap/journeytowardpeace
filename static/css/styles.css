@@ -2067,6 +2067,8 @@ article.blog-post {
     padding: 0; }
     #blog-post main .post-header {
       padding: 0 6%; }
+    #blog-post main h1 {
+      color: white; }
     #blog-post main h1:after {
       content: "";
       display: table;
