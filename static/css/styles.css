@@ -1,36 +1,36 @@
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-Bold.woff2) format("woff2"), url(/fonts/ClarikaGeo-Bold.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Bold.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Bold.woff) format("woff");
   font-weight: 800;
   font-style: normal; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-Regular.woff2) format("woff2"), url(/fonts/ClarikaGeo-Regular.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Regular.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Regular.woff) format("woff");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-It.woff2) format("woff2"), url(/fonts/ClarikaGeo-It.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-It.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-It.woff) format("woff");
   font-weight: normal;
   font-style: italic; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-DemiBold.woff2) format("woff2"), url(/fonts/ClarikaGeo-DemiBold.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-DemiBold.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-DemiBold.woff) format("woff");
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-DemiBold-It.woff2) format("woff2"), url(/fonts/ClarikaGeo-DemiBold-It.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-DemiBold-It.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-DemiBold-It.woff) format("woff");
   font-weight: bold;
   font-style: italic; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-Light.woff2) format("woff2"), url(/fonts/ClarikaGeo-Light.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Light.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Light.woff) format("woff");
   font-weight: 300;
   font-style: normal; }
 @font-face {
   font-family: Clarika Geometric;
-  src: url(/fonts/ClarikaGeo-Light-It.woff2) format("woff2"), url(/fonts/ClarikaGeo-Light-It.woff) format("woff");
+  src: url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Light-It.woff2) format("woff2"), url(https://s3.us-east-2.amazonaws.com/journeytowardpeace.com/fonts/ClarikaGeo-Light-It.woff) format("woff");
   font-weight: 300;
   font-style: italic; }
 @font-face {
