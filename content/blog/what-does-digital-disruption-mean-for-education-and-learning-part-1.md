@@ -1,9 +1,9 @@
 +++
 categories = []
-date = "2018-03-22T16:47:08Z"
-description = "We are excited about our new site and the valuable content we are excited to share with you."
-title = "Blog Content Coming Soon"
-weight = 1
+date = "2019-01-29T05:00:00+00:00"
+description = "We are excited about our new site and the valuable content we will be able to share with you in the very near future. Until then, stay tuned!"
+title = "New Blog Content Coming Soon"
+weight = ""
 
 +++
 We are excited about our new site and the valuable content we will be able to share with you in the very near future. Until then, stay tuned!
