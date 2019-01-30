@@ -8,7 +8,7 @@ weight = 1
 +++
 _This is the first installment in a series of posts that explore the significance of digital technology for education and learning in Africa and elsewhere around the developing world. There's no question that mobile technology, the scarcity of bricks and mortar educational institutions, the emerging new wave of population explosion, and the cost and availability of formal education at all levels are the critical factors driving change and digital disruption. The big unanswered questions are what does it all mean now and what will it likely mean in the medium and long term?_ 
 
-## Where Disruption Is Headed
+## WHY Disruption Is Headed
 
 According to technology expert Shankar Maruwada, educators need to prepare for a coming “education revolution” that will see learners breaking from traditional models to embrace shorter spurts of education throughout their lives.
 
