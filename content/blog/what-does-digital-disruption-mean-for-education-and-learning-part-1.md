@@ -2,7 +2,7 @@
 categories = ["Digital Education", "Sub-Saharan Africa", "Shankar Maruwada", "\"just in time expertise\"", "micro-learning"]
 date = "2018-03-22T16:47:08Z"
 description = "This is the first installment in a series of posts that will explore the significance of digital education for the direction that education and learning is headed in Africa and elsewhere around the developing world."
-title = "DOPE What Does Digital Disruption Mean for Education and Learning? Part 1"
+title = "What Does Digital Disruption Mean for Education and Learning? Part 1"
 weight = 1
 
 +++
@@ -33,6 +33,8 @@ This is the direction that the digital disruption seems to be headed. But that b
 Education has been a highly stable activity throughout the history of human civilization. It has largely rested upon two pillars: the teacher and the text. If we are a little more imaginative, we might include a third pillar, which is the learning community. The best educational experiences often involve a tight and sometimes competitive group of learners spurring one another on, arguing, resolving puzzles, and trying to excel each other’s efforts. The common foundation for these three pillars has been place. There had to be a place where teachers, texts, and students gathered so that learning could occur. Alongside this tradition of education in community (which was often centered on church and faith), there has also been a rich tradition of auto-didacticism (or self-directed learning).
 
 These elements explain the growth of the early universities. They couldn’t take root just anywhere. Texts were not widely available, for one thing. Harvard University, for example, is called by that name because John Harvard donated his collection of books to be used by students. (I’m not sure we could find many seed investments that have paid off so handsomely.) The teachers gathered near the texts and the students followed.
+
+<p>This is a paragraph</p>
 
 As books became radically less expensive thanks to the growth of printing technology and societies grew in wealth and sophistication, it became possible to replicate the model of the college or university many times over. As a result, access to a traditional education increased substantially (the 20th century U.S. demonstrates the point), but the fundamental elements were constant and place continued to be a limiting factor. The student had to go to the place of learning. The need to attend a place of learning limited the ability of those who could not give their life over full-time to obtain an education. Night school opportunities helped, but the issue of access remained a problem.
 
