@@ -3,8 +3,9 @@ categories = []
 date = ""
 description = ""
 draft = true
-slug = "a-better-url"
-title = "A title with a sad excuse for a URL"
+filename = "sample-post"
+slug = "sample-post"
+title = "Sample Post"
 weight = ""
 
 +++
