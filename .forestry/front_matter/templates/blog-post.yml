@@ -32,3 +32,5 @@ fields:
   name: slug
   label: Slug
   description: Modify the URL of this page
+pages:
+- content/blog/a-title-with-a-sad-excuse-for-a-url.md
