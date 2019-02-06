@@ -3,6 +3,16 @@ label: Blog Post
 hide_body: false
 is_partial: false
 fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
 - name: categories
   label: Categories
   type: tag_list
@@ -13,33 +23,23 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
 - name: weight
   label: Weight
   type: text
   hidden: false
   default: ''
-- type: text
-  name: slug
-  label: Slug
-  description: Modify the URL of this page
 - type: field_group
   name: seo
   label: SEO
-- type: text
-  name: filename
-  label: File Name
-  hidden: false
-  description: Edit the file name of this page
+  fields:
+  - type: text
+    name: filename
+    label: File Name
+    description: Edit the name of the page file
+  - type: text
+    name: slug
+    label: Slug
+    description: Modify the URL of this page
 pages:
 - content/blog/what-does-digital-disruption-mean-for-education-and-learning-part-1.md
 - content/blog/a-title-with-a-sad-excuse-for-a-url.md
