@@ -32,6 +32,9 @@ fields:
   name: slug
   label: Slug
   description: Modify the URL of this page
+- type: field_group
+  name: seo
+  label: SEO
 - type: text
   name: filename
   label: File Name
