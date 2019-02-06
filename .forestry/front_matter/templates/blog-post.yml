@@ -32,6 +32,11 @@ fields:
   name: slug
   label: Slug
   description: Modify the URL of this page
+- type: text
+  name: filename
+  label: File Name
+  hidden: false
+  description: Edit the file name of this page
 pages:
 - content/blog/what-does-digital-disruption-mean-for-education-and-learning-part-1.md
 - content/blog/a-title-with-a-sad-excuse-for-a-url.md
