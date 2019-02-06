@@ -33,4 +33,5 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
+- content/blog/what-does-digital-disruption-mean-for-education-and-learning-part-1.md
 - content/blog/a-title-with-a-sad-excuse-for-a-url.md
