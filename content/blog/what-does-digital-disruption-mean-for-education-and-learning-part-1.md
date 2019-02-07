@@ -12,7 +12,5 @@ slug = ""
 +++
 We are excited about our new site and the valuable content we will be able to share with you in the very near future. Until then, stay tuned!
 
-![](/uploads/parfait-cms.jpg)
-
-Sincerly,  
+Sincerely,  
 Christi
