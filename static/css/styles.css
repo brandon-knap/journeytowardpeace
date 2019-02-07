@@ -1412,83 +1412,6 @@ footer {
   footer #footer-geography {
     float: left;
     width: initial; } }
-#contact-section {
-  position: relative;
-  padding: 120px 6%;
-  border-top: solid 6px #8CE1D2;
-  background-image: url(/img/contact-bg.jpg);
-  background-size: cover;
-  height: 100vh; }
-  #contact-section .content {
-    color: white;
-    margin: 0 auto;
-    padding: 50px 60px;
-    box-sizing: border-box;
-    max-width: 520px;
-    height: 630px;
-    text-align: center;
-    background-image: url(/img/j2p-hexagon-primary.svg);
-    background-repeat: no-repeat;
-    background-size: contain; }
-    #contact-section .content h2 {
-      padding: 16px 0 8px;
-      font-weight: bold; }
-    #contact-section .content p {
-      margin-bottom: 24px; }
-  #contact-section form input, #contact-section form textarea {
-    width: 100%;
-    border-style: none;
-    border-radius: 20px;
-    height: 40px;
-    font-size: 16px;
-    font-family: "Raleway", sans-serif;
-    margin-bottom: 8px;
-    padding: 18px;
-    box-sizing: border-box; }
-  #contact-section form textarea {
-    height: 100px; }
-  #contact-section form button {
-    border: none !important;
-    border-color: none;
-    background: none;
-    background-color: #485FF5;
-    height: 40px;
-    border-radius: 20px;
-    font-family: "Raleway", sans-serif;
-    font-size: 16px;
-    padding: 0 24px;
-    color: white;
-    font-weight: bold;
-    outline: none; }
-    #contact-section form button:hover {
-      background-color: #7184FF;
-      cursor: pointer; }
-    #contact-section form button:active {
-      background-color: #283ECB; }
-  #contact-section #hexa-upper {
-    width: 80px;
-    position: absolute;
-    top: 40px;
-    right: 80%;
-    opacity: .7; }
-  #contact-section #hexa-lower {
-    width: 18%;
-    position: absolute;
-    bottom: 100px;
-    left: 75%;
-    opacity: .4; }
-
-@media (max-width: 640px) {
-  #contact-section {
-    padding-top: 30px;
-    background-image: none;
-    height: initial;
-    background-color: #8CE1D2; }
-    #contact-section .content {
-      padding: 10px 0;
-      background-image: none; }
-    #contact-section #hexa-upper, #contact-section #hexa-lower {
-      display: none; } }
 #home {
   background-image: url("/img/home-hero.jpg");
   background-repeat: no-repeat;
@@ -1784,5 +1707,82 @@ article.blog-post {
     #blog-post main .content li {
       font-size: 20px;
       line-height: 1.9; } }
+#contact-section {
+  position: relative;
+  padding: 120px 6%;
+  border-top: solid 6px #8CE1D2;
+  background-image: url(/img/contact-bg.jpg);
+  background-size: cover;
+  height: 100vh; }
+  #contact-section .content {
+    color: white;
+    margin: 0 auto;
+    padding: 50px 60px;
+    box-sizing: border-box;
+    max-width: 520px;
+    height: 630px;
+    text-align: center;
+    background-image: url(/img/j2p-hexagon-primary.svg);
+    background-repeat: no-repeat;
+    background-size: contain; }
+    #contact-section .content h2 {
+      padding: 16px 0 8px;
+      font-weight: bold; }
+    #contact-section .content p {
+      margin-bottom: 24px; }
+  #contact-section form input, #contact-section form textarea {
+    width: 100%;
+    border-style: none;
+    border-radius: 20px;
+    height: 40px;
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 8px;
+    padding: 18px;
+    box-sizing: border-box; }
+  #contact-section form textarea {
+    height: 100px; }
+  #contact-section form button {
+    border: none !important;
+    border-color: none;
+    background: none;
+    background-color: #485FF5;
+    height: 40px;
+    border-radius: 20px;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    padding: 0 24px;
+    color: white;
+    font-weight: bold;
+    outline: none; }
+    #contact-section form button:hover {
+      background-color: #7184FF;
+      cursor: pointer; }
+    #contact-section form button:active {
+      background-color: #283ECB; }
+  #contact-section #hexa-upper {
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    right: 80%;
+    opacity: .7; }
+  #contact-section #hexa-lower {
+    width: 18%;
+    position: absolute;
+    bottom: 100px;
+    left: 75%;
+    opacity: .4; }
+
+@media (max-width: 640px) {
+  #contact-section {
+    padding-top: 30px;
+    background-image: none;
+    height: initial;
+    background-color: #8CE1D2; }
+    #contact-section .content {
+      padding: 10px 0;
+      background-image: none; }
+    #contact-section #hexa-upper, #contact-section #hexa-lower {
+      display: none; } }
 
 /*# sourceMappingURL=styles.css.map */
