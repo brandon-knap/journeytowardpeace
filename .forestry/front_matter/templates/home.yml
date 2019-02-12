@@ -89,5 +89,58 @@ fields:
     - type: textarea
       name: service_description
       label: Service Description
+    hidden: true
+  - type: field_group
+    name: service_1
+    label: Service 1
+    fields:
+    - type: text
+      name: service_1_title
+      label: Service 1 Title
+    - type: textarea
+      name: service_1_description
+      label: Service 1 Description
+    - type: file
+      name: service_1_icon
+      label: Service 1 Icon
+  - type: field_group
+    name: service_2
+    label: Service 2
+    fields:
+    - type: text
+      name: service_2_title
+      label: Service 2 Title
+    - type: textarea
+      name: service_2_description
+      label: Service 2 Description
+    - type: file
+      name: service_2_icon
+      label: Service 2 Icon
+  - type: field_group
+    name: service_3
+    label: Service 3
+    fields:
+    - type: text
+      name: service_3_title
+      label: Service 3 Title
+    - type: textarea
+      name: service_3_description
+      label: Service 3 Description
+    - type: file
+      name: service_3_icon
+      label: Service 3 Icon
+  - type: field_group
+    name: service_4
+    label: Service 4
+    fields:
+    - type: text
+      name: service_4_title
+      label: Service 4 Title
+    - type: textarea
+      name: service_4_description
+      label: Service 4 Description
+    - type: file
+      name: service_4_icon
+      label: Service 4 Icon
 pages:
 - content/demo.html
