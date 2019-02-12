@@ -8,11 +8,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
 - name: hero_headline
   label: Hero headline
   type: text
@@ -20,11 +15,6 @@ fields:
   default: ''
 - name: hero_subhead
   label: Hero subhead
-  type: text
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
   type: text
   hidden: false
   default: ''
@@ -67,5 +57,20 @@ fields:
     in my life. I thank God that I was given the numerous opportunities and chances
     to succeed, because my family was willing to believe in me, and to never give
     up. For that, I am ever grateful!</p>"
+- type: field_group
+  label: Template
+  hidden: true
+  name: template
+  fields:
+  - type: text
+    name: type
+    label: type
+    config:
+      required: true
+  - type: text
+    name: layout
+    label: layout
+    config:
+      required: true
 pages:
 - content/demo.html
