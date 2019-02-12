@@ -1,0 +1,57 @@
+{{ partial "header.html" . }}
+
+<div id="home" class="layout animated fadeIn">
+    <section id="home-hero">
+        <div class="content animated fadeInUp ">
+            <h1>{{ .Params.heroheadline }}</h1>
+            <p>{{ .Params.herosubhead }}</p>
+            <a class="cta" href="#read-more"><img src="/img/cta-badge.png"></a>
+        </div>
+    </section>
+    <div id="home-belowfold">
+        <a id="read-more"></a>
+        <section id="home-services" class="home-section">
+            <h2 class="section-title">What We Offer</h2>
+            <div class="service">
+                <img src="/img/badge-programs.svg">
+                <div class="content">
+                    <h3>Programs & Treatment</h3>
+                    <p>Theraputic Program, Theraputic Boarding School, Residential Treatment, Wilderness Program</p>
+                </div>
+            </div>
+            <div class="service">
+                <img src="/img/badge-placement.svg">
+                <div class="content">
+                    <h3>Placement Assistance</h3>
+                    <p>Assess individual family needs, Rapid placement if necessary, Referral to trusted programs, Transportation Referrals</p>
+                </div>
+            </div>
+            <div class="service">
+                <img src="/img/badge-mental-health.svg">
+                <div class="content">
+                    <h3>Issue Identification</h3>
+                    <p>Teens in crisis, behavioral issues, self harm/destructive behavior, substance abuse, psychiatric diagnosis</p>
+                </div>
+            </div>
+            <div class="service">
+                <img src="/img/badge-referrals.svg">
+                <div class="content">
+                    <h3>Pre & Postcare Referrals</h3>
+                    <p>Referrals to before/early care support, referrals to aftercare providers</p>
+                </div>
+            </div>
+        </section>
+        <section id="home-about" class="home-section">
+            <h2 class="section-title">About Us</h2>
+            <img src="/img/about-badge-hero.png">
+            <div class="content">
+                <h4>The Beginning of Our Journey</h4>
+                <p>After personally experiencing the struggle of having a child in crisis, I have become passionate about helping other families dealing with similar situations. Over the past ten years, I have worked in a high school counseling office, and have seen an increase in the difficulties adolescents, teens and their families face. The pressures of academics, social media, relationships and the increasing use of substances at alarmingly earlier ages, has resulted in a rise in anxiety and depression in our youth. Some adolescents and teens respond well with weekly therapy and intensive outpatient programs. Some, however, need additional intervention. Finding the program that best fits your individual family needs can be life changing. My hope is to assist families find the program that allows them find the peace they desire.</p>
+                <h4>Our Daughter's Journey</h4>
+                <p>My name is Isabella, I am a now a sophomore in college, and living in Arizona with my dog, Carti, and my friends. When I was 16 years old, over Christmas break my parents made the choice to enroll me in a therapeutic boarding school in Arizona. When I learned this was happening, I felt as if my life was crumbling! What I also knew was that I was in a place in my life where I needed extra help. My parents had exhausted all local resources, and I needed more to reach me in my place of deep desperation. I didn’t like who I was, and that caused me to succumb to many things and choices that were not healthy. I struggled with depression, and wasn’t able to find a way to cope that worked for me. By going to a therapeutic boarding school, I was able to have a break from daily pressures and realize I was not alone. I was able to find myself, again, and was able to graduate from high school. I developed friendships with people who understood what I was going through and were right there to support me. Being away from my family was difficult, but during my time away, I was able to learn to appreciate them and understand that they were doing an amazing thing for me. They were doing something for me that not every family would be willing to do for their child. My family gave me the chance to be the person I am today. I love school, I have a great job working at my favorite clothing store, and I appreciate who I am, and the people I have in my life. I thank God that I was given the numerous opportunities and chances to succeed, because my family was willing to believe in me, and to never give up. For that, I am ever grateful!</p>
+            </div>
+        </section>
+    </div> 
+</div>
+
+{{ partial "footer.html" . }}
