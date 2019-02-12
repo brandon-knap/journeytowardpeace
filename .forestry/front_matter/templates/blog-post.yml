@@ -41,5 +41,6 @@ fields:
     label: Slug
     description: Modify the URL of this page
 pages:
+- content/blog/this-is-a-mobile-post.md
 - content/blog/what-does-digital-disruption-mean-for-education-and-learning-part-1.md
 - content/blog/sample-post.md
