@@ -7,16 +7,16 @@
             <p>{{ .Params.hero_subhead }}</p>
             <a class="cta" href="#read-more"><img src="/img/cta-badge.png"></a>
         </div>
-    </section>
+    </section> 
     <div id="home-belowfold">
         <a id="read-more"></a>
         <section id="home-services" class="home-section">
             <h2 class="section-title">What We Offer</h2>
             <div class="service">
-                <img src="/img/badge-programs.svg">
+                <img src="{{ .Params.service_1_icon }}">
                 <div class="content">
-                    <h3>Programs & Treatment</h3>
-                    <p>Theraputic Program, Theraputic Boarding School, Residential Treatment, Wilderness Program</p>
+                    <h3>{{ .Params.service_1_title }}</h3>
+                    <p>{{ .Params.service_1_description }}</p>
                 </div>
             </div>
             <div class="service">
