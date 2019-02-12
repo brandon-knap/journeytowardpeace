@@ -72,5 +72,22 @@ fields:
     label: layout
     config:
       required: true
+- type: field_group
+  name: services
+  label: Services
+  fields:
+  - type: field_group_list
+    name: service
+    label: Service
+    fields:
+    - type: file
+      name: icon
+      label: Icon
+    - type: text
+      label: Service Title
+      name: title
+    - type: textarea
+      name: service_description
+      label: Service Description
 pages:
 - content/demo.html
