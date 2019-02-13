@@ -117,12 +117,16 @@ fields:
     - type: text
       name: service_2_title
       label: Service 2 Title
+      default: Placement Assistance
     - type: textarea
       name: service_2_description
       label: Service 2 Description
+      default: Assess individual family needs, Rapid placement if necessary, Referral
+        to trusted programs, Transportation Referrals
     - type: file
       name: service_2_icon
       label: Service 2 Icon
+      default: "/uploads/badge-placement.svg"
   - type: field_group
     name: service_3
     label: Service 3
@@ -130,12 +134,16 @@ fields:
     - type: text
       name: service_3_title
       label: Service 3 Title
+      default: Issue Identification
     - type: textarea
       name: service_3_description
       label: Service 3 Description
+      default: Teens in crisis, behavioral issues, self harm/destructive behavior,
+        substance abuse, psychiatric diagnosis
     - type: file
       name: service_3_icon
       label: Service 3 Icon
+      default: "/uploads/badge-mental-health.svg"
   - type: field_group
     name: service_4
     label: Service 4
@@ -143,11 +151,14 @@ fields:
     - type: text
       name: service_4_title
       label: Service 4 Title
+      default: Pre & Postcare Referrals
     - type: textarea
       name: service_4_description
       label: Service 4 Description
+      default: Referrals to before/early care support, referrals to aftercare providers
     - type: file
       name: service_4_icon
       label: Service 4 Icon
+      default: "/uploads/badge-referrals.svg"
 pages:
 - content/demo.html
