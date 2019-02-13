@@ -113,6 +113,9 @@ fields:
   - type: text
     name: section_title
     label: section_title
+  - type: file
+    name: image
+    label: image
   - type: textarea
     name: bio
     label: bio
@@ -120,9 +123,6 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: file
-    name: image
-    label: image
 - type: field_group
   label: Template
   hidden: true
