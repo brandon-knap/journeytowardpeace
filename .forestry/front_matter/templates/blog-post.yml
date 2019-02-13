@@ -13,6 +13,10 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - name: categories
   label: Categories
   type: tag_list
