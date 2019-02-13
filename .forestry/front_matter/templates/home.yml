@@ -101,12 +101,15 @@ fields:
     - type: text
       name: service_1_title
       label: Service 1 Title
+      default: Title
     - type: textarea
       name: service_1_description
       label: Service 1 Description
+      default: Description
     - type: file
       name: service_1_icon
       label: Service 1 Icon
+      default: "/uploads/badge-programs.svg"
   - type: field_group
     name: service_2
     label: Service 2
