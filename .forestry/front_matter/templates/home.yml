@@ -138,12 +138,5 @@ fields:
     label: layout
     config:
       required: true
-- type: textarea
-  name: bio2
-  label: bio2
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
 pages:
 - content/demo.html
