@@ -19,21 +19,6 @@ fields:
   hidden: false
   default: ''
 - type: field_group
-  label: Template
-  hidden: true
-  name: template
-  fields:
-  - type: text
-    name: type
-    label: type
-    config:
-      required: true
-  - type: text
-    name: layout
-    label: layout
-    config:
-      required: true
-- type: field_group
   name: services
   label: Services
   fields:
@@ -138,5 +123,20 @@ fields:
   - type: file
     name: image
     label: image
+- type: field_group
+  label: Template
+  hidden: true
+  name: template
+  fields:
+  - type: text
+    name: type
+    label: type
+    config:
+      required: true
+  - type: text
+    name: layout
+    label: layout
+    config:
+      required: true
 pages:
 - content/demo.html
