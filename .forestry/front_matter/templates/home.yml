@@ -138,5 +138,12 @@ fields:
     label: layout
     config:
       required: true
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: bio test
+  name: bio_test
 pages:
 - content/demo.html
