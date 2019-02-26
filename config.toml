@@ -1,4 +1,4 @@
-baseurl = "http://journeytowardpeace.com.s3-website.us-east-2.amazonaws.com/"
+baseurl = "http://journeytowardpeace.com/"
 languageCode = "en-us"
 pluralizelisttitles = "false"
 title = "Journey Toward Peace"
