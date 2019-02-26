@@ -2,8 +2,7 @@
 categories = []
 date = ""
 description = ""
-draft = true
-title = "This is a Mobile Post"
+title = "This should be live on GoDaddy"
 weight = ""
 [seo]
 filename = ""
