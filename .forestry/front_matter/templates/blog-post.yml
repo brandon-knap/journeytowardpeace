@@ -32,17 +32,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: field_group
-  name: seo
-  label: SEO
-  fields:
-  - type: text
-    name: filename
-    label: File Name
-    description: Edit the name of the page file
-  - type: text
-    name: slug
-    label: Slug
-    description: Modify the URL of this page
+- type: text
+  name: slug
+  label: Slug
+  description: Modify the URL of this page
 pages:
 - content/blog/sample-post.md
