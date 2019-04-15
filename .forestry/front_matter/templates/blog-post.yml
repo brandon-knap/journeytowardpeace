@@ -1,7 +1,6 @@
 ---
 label: Blog Post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -37,4 +36,5 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
+- content/blog/willing-to-do-whatever-it-takes.md
 - content/blog/sample-post.md
