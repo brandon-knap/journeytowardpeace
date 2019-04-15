@@ -2,6 +2,7 @@
 categories = []
 date = "2019-04-15T04:00:00+00:00"
 description = ""
+draft = true
 slug = ""
 title = "Willing to do whatever it takes?"
 weight = 1
