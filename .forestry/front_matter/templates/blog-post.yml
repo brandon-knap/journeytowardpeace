@@ -36,4 +36,5 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
+- content/blog/benefits-of-a-therapeutic-boarding-school.md
 - content/blog/willing-to-do-whatever-it-takes.md
