@@ -2,6 +2,7 @@
 categories = []
 date = "2019-04-16T04:00:00+00:00"
 description = ""
+draft = true
 slug = ""
 title = "Benefits of a Therapeutic Boarding School"
 weight = 2
