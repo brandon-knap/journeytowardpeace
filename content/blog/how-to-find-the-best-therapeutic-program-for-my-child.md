@@ -2,7 +2,6 @@
 categories = []
 date = "2019-06-01T04:00:00+00:00"
 description = ""
-draft = true
 slug = ""
 title = "How can Journey Toward Peace help?"
 weight = 1
