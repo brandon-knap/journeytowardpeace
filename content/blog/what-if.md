@@ -2,7 +2,6 @@
 categories = []
 date = "2019-04-19T04:00:00+00:00"
 description = ""
-draft = true
 slug = ""
 title = "What if?"
 weight = ""
