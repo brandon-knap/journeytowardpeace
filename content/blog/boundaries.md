@@ -7,6 +7,7 @@ title = "Boundaries"
 weight = 2
 
 +++
+
 Setting boundaries with our children is one of the most important things we can do for them. It is our responsibility as parents. However, setting firm boundaries with our children, especially our teen children, is very difficult!
 
 We have to follow some basic rules when setting boundaries for our children, as well as others:
@@ -16,7 +17,7 @@ We have to follow some basic rules when setting boundaries for our children, as 
    If you feel strongly about certain things such as academics, chores, peer relationships, etc., make sure you clearly state your limits and expectations. For example, if you expect your child to complete homework prior to participating in extracurricular activities, be consistent with that rule.
 2. Be direct and make your boundaries known.
 
-   Don't be vague with your expectations and limits. Set boundaries and stick with them, regardless of the situation or the environment (don't cave in to your own peer pressure). 
+   Don't be vague with your expectations and limits. Set boundaries and stick with them, regardless of the situation or the environment (don't cave in to your own peer pressure).
 3. Don't feel guilty about saying NO.
 
    To be honest, no is not a word anyone enjoys hearing. Children, and teens especially, hate to hear the word no. However, no is a very important word that is often necessary to protect ourselves or others. If we use the word no for the right reasons, there is no need to feel guilty about it.
