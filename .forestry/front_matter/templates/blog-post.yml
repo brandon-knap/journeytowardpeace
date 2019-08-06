@@ -36,6 +36,7 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
+- content/blog/program-visits.md
 - content/blog/what-if.md
 - content/blog/how-to-find-the-best-therapeutic-program-for-my-child.md
 - content/blog/boundaries.md
