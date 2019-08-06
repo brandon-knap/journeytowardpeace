@@ -4,7 +4,7 @@ date = "2019-04-19T04:00:00+00:00"
 description = ""
 slug = ""
 title = "What if?"
-weight = ""
+weight = 2
 
 +++
 I recently received a call from by best friend. She lives in Virginia, where we met 19 years ago. We have lived in different states for 17 of the 19 years we have known each other. However, we have remained close. We share our fears for our children, our aging parents, extended family, etc. We also talk about mutual friends we have from when we lived in the same area.
