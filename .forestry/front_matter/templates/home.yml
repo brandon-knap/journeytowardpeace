@@ -138,4 +138,5 @@ fields:
     config:
       required: true
 pages:
+- content/blog/visits.md
 - content/demo.html
