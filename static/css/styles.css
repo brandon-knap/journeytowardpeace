@@ -1484,6 +1484,21 @@ footer {
     padding: 0 6% 30px; }
     #home #home-about img {
       width: 100%; }
+    #home #home-about .verse {
+      border-top: solid 2px #485FF5;
+      border-bottom: solid 2px #485FF5;
+      margin: 40px 0 80px;
+      padding: 20px 0 30px;
+      text-align: center; }
+      #home #home-about .verse p {
+        font-size: 20px;
+        line-height: 1.4; }
+      #home #home-about .verse span {
+        font-weight: bold;
+        letter-spacing: .08rem;
+        text-transform: uppercase;
+        font-variant-numeric: tabular-nums;
+        font-size: 14px; }
 
 @media (min-width: 640px) {
   #home #home-hero .content {
@@ -1494,9 +1509,15 @@ footer {
     padding-bottom: 80px;
     text-align: center; }
     #home #home-about img {
-      width: 35%;
-      display: inline-block;
       vertical-align: top; }
+    #home #home-about .about-left {
+      width: 35%;
+      display: inline-block; }
+    #home #home-about .verse p {
+      font-size: 20px;
+      line-height: 1.4; }
+    #home #home-about .verse span {
+      font-size: 14px; }
     #home #home-about .content {
       width: 55%;
       display: inline-block;

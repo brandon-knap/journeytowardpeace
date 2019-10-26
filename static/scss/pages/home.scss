@@ -90,6 +90,26 @@
     img{
       width: 100%;
     }
+    .verse{
+      border-top: solid 2px $secondary;
+      border-bottom: solid 2px $secondary;
+      margin: 40px 0 80px;
+      padding: 20px 0 30px;;
+      text-align: center;
+
+      p{
+        font-size: 20px;
+        line-height: 1.4;
+      }
+
+      span{
+        font-weight: bold;
+        letter-spacing: .08rem;
+        text-transform: uppercase;
+        font-variant-numeric: tabular-nums;
+        font-size: 14px;
+      }
+    }
   }
 }
 
@@ -107,9 +127,20 @@
     text-align: center;
 
     img{
+      vertical-align: top;
+    }
+    .about-left{
       width: 35%;
       display: inline-block;
-      vertical-align: top;
+    }
+    .verse{
+      p{
+        font-size: 20px;
+        line-height: 1.4;
+      }
+      span{
+        font-size: 14px;
+      }
     }
     .content{
       width: 55%;
