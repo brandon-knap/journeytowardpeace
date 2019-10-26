@@ -6,6 +6,5 @@ slug = ""
 resourcesource = "The Arbinger Institute"
 title = "The Anatomy of Peace"
 weight = ""
-draft = "true"
 
 +++
