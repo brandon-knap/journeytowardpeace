@@ -1,0 +1,22 @@
+{{ partial "meta.html" . }}
+{{ partial "header.html" . }}
+
+
+<!-- Main view -->
+  
+<div id="resources" class="list-page layout">
+
+  <main>
+		<div class="content">
+			<h1 class="animated fadeInUp">{{ .Title }}</h1>
+			<p class="list-description animated fadeInUp">Below are excellent resources to help better inform you so you can make the best decision for your child in need.</p>
+			<div class="articles animated fadeInUp">
+				{{ range .Pages.ByWeight }}	  
+					{{ .Render "li" }}
+				{{ end }}
+			</div>
+	  </div>
+  </main>
+</div>
+
+{{ partial "footer.html" . }}

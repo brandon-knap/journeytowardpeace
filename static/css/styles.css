@@ -166,7 +166,7 @@ h1 {
   -webkit-font-smoothing: antialiased !important; }
 
 h2 {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 300;
   margin: 0;
   padding: 0;
@@ -1413,7 +1413,7 @@ footer {
     float: left;
     width: initial; } }
 #home {
-  background-image: url("/img/home-hero.jpg");
+  background-image: url("/img/fall-girl-hero-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -1487,7 +1487,7 @@ footer {
     #home #home-about .verse {
       border-top: solid 2px #485FF5;
       border-bottom: solid 2px #485FF5;
-      margin: 40px 0 80px;
+      margin: 40px 0 60px;
       padding: 20px 0 30px;
       text-align: center; }
       #home #home-about .verse p {
@@ -1499,6 +1499,10 @@ footer {
         text-transform: uppercase;
         font-variant-numeric: tabular-nums;
         font-size: 14px; }
+    #home #home-about .ieca h4 {
+      margin-bottom: 15px; }
+    #home #home-about .ieca img {
+      margin-bottom: 20px; }
 
 @media (min-width: 640px) {
   #home #home-hero .content {
@@ -1523,7 +1527,13 @@ footer {
       display: inline-block;
       vertical-align: top;
       text-align: left;
-      padding-left: 5%; } }
+      padding-left: 5%; }
+    #home #home-about .ieca img, #home #home-about .ieca p {
+      width: 50%;
+      float: left; }
+    #home #home-about .ieca img {
+      padding-right: 20px;
+      box-sizing: border-box; } }
 @media (min-width: 720px) {
   #home #home-belowfold {
     padding-bottom: 0; } }
@@ -1539,21 +1549,35 @@ footer {
     #home #home-services .service .content {
       padding-right: 24px; } }
 #blog {
-  background: #D3EFFE;
-  background-image: url("/img/home-hero.jpg");
+  background-image: url("/img/girls-flowers-hero-bg.jpg"); }
+
+#resources {
+  background-image: url("/img/fall-hug-hero-bg.jpg"); }
+
+.list-page {
+  background: #ffffff;
+  background-image: url("/img/girls-flowers-hero-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover; }
-  #blog h1 {
+  .list-page h1 {
     color: white; }
-  #blog article {
+  .list-page .list-description {
+    color: white;
+    margin-bottom: 30px;
+    text-shadow: 0px 2px 8px black;
+    font-size: 18px;
+    font-style: italic; }
+  .list-page article {
     border-radius: 18px; }
-  #blog main {
+  .list-page main {
     max-width: 1300px;
     width: 100%;
     box-sizing: border-box; }
-  #blog aside {
+    .list-page main .content {
+      max-width: 600px; }
+  .list-page aside {
     display: none;
     z-index: 2; }
 
@@ -1599,7 +1623,7 @@ article.blog-post {
   article.blog-post h2:after {
     content: "";
     display: table;
-    background: #8CE1D2;
+    background: #485FF5;
     height: 4px;
     width: 80px;
     margin: 20px 0;
@@ -1623,24 +1647,55 @@ article.blog-post {
     /* Safari */
     transition: width .5s; }
 
+#resources h2 {
+  font-weight: bold; }
+#resources h2:after {
+  content: "";
+  display: table;
+  background: none;
+  height: 0;
+  width: 80px;
+  margin: 10px 0 0;
+  -webkit-transition: width .5s;
+  /* Safari */
+  transition: width .5s; }
+#resources .resourcesource:after {
+  content: "";
+  display: table;
+  background: #485FF5;
+  height: 4px;
+  width: 80px;
+  margin: 20px 0;
+  -webkit-transition: width .5s;
+  /* Safari */
+  transition: width .5s; }
+
+/*
 @media only screen and (min-width: 900px) {
-  article.blog-post h2 {
-    max-width: 460px;
-    width: 70%; }
-  article.blog-post .post-details:after {
-    content: "";
-    display: table;
-    clear: both; }
-  article.blog-post p.description {
-    width: 65%;
-    box-sizing: border-box;
-    padding-right: 36px;
-    float: left; }
-  article.blog-post .post-li-meta {
-    width: 35%;
-    float: left;
-    padding-top: 0;
-    border-top: none; } }
+article.blog-post{
+    h2{
+        max-width: 460px;
+        width: 70%;
+    }
+    .post-details:after{
+        @include clearfix;
+    }
+    p.description{
+        width: 65%;
+        box-sizing: border-box;
+        padding-right: 36px;
+        float: left;
+    }
+    .post-li-meta{
+        width:35%;
+        float: left;
+        padding-top: 0;
+        border-top: none;
+    }
+}
+}
+
+*/
 #blog-post {
   background: #D3EFFE;
   background-image: url("/img/home-hero.jpg");

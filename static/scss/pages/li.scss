@@ -21,7 +21,7 @@ article.blog-post{
     h2:after{
         content: "";
         display: table;
-        background: $primary;
+        background: $secondary;
         height: 4px;
         width: 80px;
         margin: 20px 0;
@@ -50,7 +50,32 @@ article.blog-post{
         transition: width .5s;
     }
 }
-
+#resources{
+    h2{
+        font-weight: bold;
+    }
+    h2:after{
+        content: "";
+        display: table;
+        background: none;
+        height: 0;
+        width: 80px;
+        margin: 10px 0 0;
+        -webkit-transition: width .5s; /* Safari */
+        transition: width .5s;
+    }
+    .resourcesource:after{
+        content: "";
+        display: table;
+        background: $secondary;
+        height: 4px;
+        width: 80px;
+        margin: 20px 0;
+        -webkit-transition: width .5s; /* Safari */
+        transition: width .5s;
+    }
+}
+/*
 @media only screen and (min-width: 900px) {
 article.blog-post{
     h2{
@@ -74,3 +99,5 @@ article.blog-post{
     }
 }
 }
+
+*/
