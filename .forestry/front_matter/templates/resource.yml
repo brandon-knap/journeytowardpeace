@@ -1,4 +1,55 @@
 ---
 label: Resource
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Resource Title
+- name: resourcesource
+  type: text
+  config:
+    required: false
+  label: Source
+  description: Author, Publisher, etc.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: resourcelink
+  type: text
+  config:
+    required: false
+  label: Resource Link
+- name: weight
+  type: number
+  label: Weight
+  description: Force this item to appear in a different order on the site. Weight
+    of 1 will make this item first in the list.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
+  description: Modify the URL of this page
