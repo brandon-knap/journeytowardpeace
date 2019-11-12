@@ -1,10 +1,11 @@
 +++
 categories = []
-date = "2019-04-16T04:00:00+00:00"
+date = 2019-04-16T04:00:00Z
 description = ""
-slug = ""
+resourcelink = ""
 resourcesource = "The Arbinger Institute"
+slug = ""
 title = "The Anatomy of Peace"
-weight = ""
+weight = 0
 
 +++
