@@ -19,6 +19,7 @@
   <main>
 		<div class="content">
 			<h1 class="animated fadeInUp">{{ .Title }}</h1>
+			<p class="list-description animated fadeInUp">Welcome to our blog where we keep you informed of the paths we are taking to pave the way for your family.</p>
 			<div class="articles animated fadeInUp">
 				{{ range .Pages.ByWeight }}	  
 					{{ .Render "li" }}
