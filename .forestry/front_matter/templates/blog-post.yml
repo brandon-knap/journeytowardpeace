@@ -37,8 +37,8 @@ fields:
   description: Modify the URL of this page
 pages:
 - content/blog/program-visits.md
+- content/blog/what-if.md
 - content/blog/boundaries.md
+- content/blog/how-to-find-the-best-therapeutic-program-for-my-child.md
 - content/blog/willing-to-do-whatever-it-takes.md
 - content/blog/benefits-of-a-therapeutic-boarding-school.md
-- content/blog/what-if.md
-- content/blog/how-to-find-the-best-therapeutic-program-for-my-child.md
