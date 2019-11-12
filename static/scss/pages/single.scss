@@ -1,6 +1,6 @@
 #blog-post{
 	background: #D3EFFE;
-	background-image: url("/img/home-hero.jpg");
+	background-image: url("/img/sand-path-hero-bg.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -21,7 +21,7 @@
         h1:after{
             content: "";
             display: table;
-            background: $primary;
+            background: $secondary;
             height: 4px;
             width: 80px;
             margin: 32px 0 40px;
@@ -30,6 +30,7 @@
             @include card-layer2;
             border-radius: 18px;
             padding: $space-f $site-padding $space-g;
+            position: relative;
 
             h3{
                 font-size: 23px;
@@ -90,7 +91,29 @@
             background: #cccccc;
         }
     }
+    .resourcelink{
+        span{ 
+            vertical-align: middle;
+            margin-left: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        img{
+            width: 70px;
+            vertical-align: middle;
+            -webkit-transition: all .5s; /* Safari */
+            transition: all .5s;
+        }
+    }
+    .resourcelink:hover{
+        img{
+            width: 80px;
+            -webkit-transition: all .5s; /* Safari */
+            transition: all .5s;
+        }
+    }
 }
+
 @media (min-width:640px){
 #blog-post{
     main{

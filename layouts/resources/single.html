@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a590682e1dacf0013af2da4&product=sticky-share-buttons"></script>
+
+
+<!-- Main view -->
+  
+<div id="blog-post" class="layout animated fadeIn">
+  <main>
+	  <article>
+          <div class="post-header">
+            <h1 class="animated fadeInUp">{{ .Title }}</h1>
+          </div>
+          <div class="content animated fadeInUp">
+              <p class="resourcesource"><em>{{ .Params.Resourcesource }}</em></p>
+              <p class="resourcesource">{{ .Params.Description }}</p>
+              {{ .Content }}
+              {{ with .Params.resourcelink }}<a class="resourcelink" href="{{ . }}" target="blank" title="Go to {{ . }}"><img src="/img/badge-link.svg"><span>Visit<br>Resource</span></a>{{ end }}
+            <hr>
+            {{ range .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><span class="post-tag">{{ . }}</span></a>
+            {{ end }}
+        </div>
+	  </article>
+  </main>
+</div>
+
+{{ partial "footer.html" . }}

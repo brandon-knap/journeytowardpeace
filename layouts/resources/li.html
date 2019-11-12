@@ -1,9 +1,10 @@
 <article class="blog-post">
     <div class="content">
-      <h2>{{ .Title }}</h2>
-      <p class="resourcesource">{{ .Params.Resourcesource }}</p>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p class="resourcesource"><em>{{ .Params.Resourcesource }}</em></p>
       <div class="post-details">
         <p class="description">{{ .Description }}</p>
       </div>
+      {{ with .Params.resourcelink }}<a class="resourcelink" href="{{ . }}" target="blank" title="Go to {{ . }}"><img src="/img/badge-link.svg"></a>{{ end }}
     </div>
 </article>
