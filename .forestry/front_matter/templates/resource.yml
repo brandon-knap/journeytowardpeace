@@ -41,7 +41,7 @@ fields:
   label: Weight
   description: Force this item to appear in a different order on the site. Weight
     of 1 will make this item first in the list.
-  default: 0
+  default: '0'
   required: true
   config:
     min: 
