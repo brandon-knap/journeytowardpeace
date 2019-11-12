@@ -54,5 +54,4 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
-- content/resources/title.md
 - content/resources/demo-resource.md
