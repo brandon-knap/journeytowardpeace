@@ -53,3 +53,5 @@ fields:
     required: false
   label: Slug
   description: Modify the URL of this page
+pages:
+- content/resources/stop-walking-on-eggshells.md
