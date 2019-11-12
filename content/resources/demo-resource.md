@@ -1,7 +1,6 @@
 +++
 date = 2019-11-12T05:00:00Z
 description = "The greatest of piano men, that Billy is."
-draft = true
 resourcelink = "http://wildedge.design"
 resourcesource = "Billy Joel"
 slug = ""
