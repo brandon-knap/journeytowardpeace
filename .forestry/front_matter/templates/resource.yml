@@ -54,5 +54,6 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
-- content/resources/the-anatomy-of-peace.md
+- content/resources/beautiful-boy.md
 - content/resources/stop-walking-on-eggshells.md
+- content/resources/the-anatomy-of-peace.md
