@@ -2,7 +2,6 @@
 categories = []
 date = 2020-01-19T05:00:00Z
 description = ""
-draft = true
 slug = ""
 title = "Joy of Education Consulting"
 weight = "1"
