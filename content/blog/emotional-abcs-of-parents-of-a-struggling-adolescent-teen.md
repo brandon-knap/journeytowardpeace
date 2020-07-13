@@ -8,7 +8,7 @@ title = "Emotional ABCs of Parents of a Struggling Adolescent/Teen"
 weight = "1"
 
 +++
-If you are a parent of a struggling child, you may be reeling with emotions. You are NOT alone! Many parents have been in the same position and find themselves seeking the assistance of an Educational Consultant. 
+If you are a parent of a struggling child, you may be reeling with emotions. You are NOT alone! Many parents have been in the same position and find themselves seeking the assistance of an Educational Consultant.
 
 Some of the emotions parents say they feel...
 
@@ -64,4 +64,4 @@ e**X**hausted
 
 **Z**apped
 
-If you are feeling any of these emotions, Journey Toward Peace can help! There are so many great options for parents, contact me for more information.
+If you are feeling any of these emotions, Journey Toward Peace can help! There are many great options. Contact me for more information.
