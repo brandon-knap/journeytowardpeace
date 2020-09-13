@@ -4,7 +4,7 @@ description = ""
 resourcelink = ""
 resourcesource = ""
 slug = ""
-title = "Sample Resource"
+title = "My Sample Resource"
 weight = 0
 
 +++
