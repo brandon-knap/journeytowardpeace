@@ -36,6 +36,7 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
+- content/blog/10-tips-for-visiting-therapeutic-programs.md
 - content/blog/benefits-of-a-therapeutic-boarding-school.md
 - content/blog/boundaries.md
 - content/blog/emotional-abcs-of-parents-of-a-struggling-adolescent-teen-copy.md
