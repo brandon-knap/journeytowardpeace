@@ -54,7 +54,6 @@ fields:
   label: Slug
   description: Modify the URL of this page
 pages:
-- content/blog/sample-resource.md
 - content/resources/beautiful-boy.md
 - content/resources/boundaries-when-to-say-yes-when-to-say-no-to-take-control-of-your-life.md
 - content/resources/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead.md
