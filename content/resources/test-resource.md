@@ -1,6 +1,6 @@
 +++
 date = 2020-10-19T04:00:00Z
-description = ""
+description = "Making sure the site is operating correctly"
 resourcelink = ""
 resourcesource = ""
 slug = ""
