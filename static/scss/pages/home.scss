@@ -76,7 +76,7 @@
     }
   }
   #home-belowfold{
-    background: #D3EFFE;
+    background: white;
     padding-bottom: $space-f;
     position: relative;
   }
@@ -98,7 +98,7 @@
     }
   }
   #home-about{
-    padding: 0 $site-padding 30px;
+    padding: 0 $site-padding;
 
     img{
       width: 100%;
@@ -129,6 +129,24 @@
       }
       img{
         margin-bottom: 20px;
+      }
+    }
+  }
+  #home-memberships{
+    padding: 0 $site-padding 30px;
+
+    .content{
+      text-align: center;
+
+      .item{
+        display: inline-block;
+        margin-bottom: 40px;
+        padding: 0 15px;
+        box-sizing: border-box;
+
+        img{
+          max-width: 300px;
+        }
       }
     }
   }
@@ -168,7 +186,7 @@
     }   
   }
   #home-about{
-    padding-bottom: 80px;
+    padding-bottom: 20px;
     text-align: center;
 
     img{
@@ -194,16 +212,6 @@
       text-align: left;
       padding-left: 5%;
     }
-    .ieca{
-      img, p{
-        width: 50%;
-        float: left;
-      }
-      img{
-        padding-right: 20px;
-        box-sizing: border-box;
-      }
-    }
   }
 }
 }
@@ -211,6 +219,14 @@
 #home{
   #home-belowfold{
     padding-bottom: 0;
+  }
+  #home-memberships{
+    .content{
+      .item{
+        width: 50%;
+        float: left;
+      }
+    }
   }
 }
 }

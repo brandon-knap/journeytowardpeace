@@ -1405,8 +1405,9 @@ nav#main-menu {
   nav#main-menu ul li {
     margin-left: 3vw; } }
 footer {
-  background: white;
-  padding: 40px 6%; }
+  background: #555555;
+  padding: 40px 6%;
+  color: white; }
 
 @media (min-width: 890px) {
   footer #footer-geography {
@@ -1475,7 +1476,7 @@ footer {
       #home #home-hero .content .btn:last-of-type {
         margin-right: 0; }
   #home #home-belowfold {
-    background: #D3EFFE;
+    background: white;
     padding-bottom: 32px;
     position: relative; }
   #home #home-services {
@@ -1490,7 +1491,7 @@ footer {
       #home #home-services .service .content {
         padding-left: 16px; }
   #home #home-about {
-    padding: 0 6% 30px; }
+    padding: 0 6%; }
     #home #home-about img {
       width: 100%; }
     #home #home-about .verse {
@@ -1512,6 +1513,17 @@ footer {
       margin-bottom: 15px; }
     #home #home-about .ieca img {
       margin-bottom: 20px; }
+  #home #home-memberships {
+    padding: 0 6% 30px; }
+    #home #home-memberships .content {
+      text-align: center; }
+      #home #home-memberships .content .item {
+        display: inline-block;
+        margin-bottom: 40px;
+        padding: 0 15px;
+        box-sizing: border-box; }
+        #home #home-memberships .content .item img {
+          max-width: 300px; }
 
 @media (min-width: 640px) {
   #home #home-hero .content {
@@ -1533,7 +1545,7 @@ footer {
     #home #home-hero .content p {
       font-size: 21px; }
   #home #home-about {
-    padding-bottom: 80px;
+    padding-bottom: 20px;
     text-align: center; }
     #home #home-about img {
       vertical-align: top; }
@@ -1550,16 +1562,13 @@ footer {
       display: inline-block;
       vertical-align: top;
       text-align: left;
-      padding-left: 5%; }
-    #home #home-about .ieca img, #home #home-about .ieca p {
-      width: 50%;
-      float: left; }
-    #home #home-about .ieca img {
-      padding-right: 20px;
-      box-sizing: border-box; } }
+      padding-left: 5%; } }
 @media (min-width: 720px) {
   #home #home-belowfold {
-    padding-bottom: 0; } }
+    padding-bottom: 0; }
+  #home #home-memberships .content .item {
+    width: 50%;
+    float: left; } }
 @media (min-width: 815px) {
   #home #home-services .service {
     width: 50%;
@@ -1696,7 +1705,7 @@ article.blog-post {
     width: 90px;
     right: -68px; } }
 #blog-post {
-  background: #D3EFFE;
+  background: white;
   background-image: url("/img/sand-path-hero-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1801,7 +1810,7 @@ article.blog-post {
       line-height: 1.9; } }
 #contact-section {
   position: relative;
-  padding: 120px 6%;
+  padding: 0 6%;
   border-top: solid 6px #8CE1D2;
   background-image: url(/img/contact-bg.jpg);
   background-size: cover;
