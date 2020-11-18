@@ -1497,7 +1497,7 @@ footer {
     #home #home-about .verse {
       border-top: solid 2px #485FF5;
       border-bottom: solid 2px #485FF5;
-      margin: 40px 0 60px;
+      margin: 40px 0 30px;
       padding: 20px 0 30px;
       text-align: center; }
       #home #home-about .verse p {
@@ -1545,7 +1545,6 @@ footer {
     #home #home-hero .content p {
       font-size: 21px; }
   #home #home-about {
-    padding-bottom: 20px;
     text-align: center; }
     #home #home-about img {
       vertical-align: top; }
