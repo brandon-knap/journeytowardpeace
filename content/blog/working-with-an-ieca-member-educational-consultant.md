@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-02T04:00:00Z
 description = "<p class=\"p2\"></p><p><br></p>"
-draft = true
 slug = ""
 title = "Working with an IECA Member Educational Consultant"
 weight = "1"
