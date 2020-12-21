@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-02T04:00:00Z
 description = ""
-draft = true
 slug = ""
 title = "10 Tips for Visiting Therapeutic Programs"
 weight = "2"
