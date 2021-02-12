@@ -2,21 +2,25 @@
 label: Blog Post
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: description
-  label: description
-- type: text
-  name: slug
-  label: slug
 - type: text
   name: title
   label: title
 - type: text
+  name: description
+  label: description
+  description: This shows up on the blog list page on the card
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: slug
+  label: slug
+  description: This is what shows up in the address bar after "...com/blog/"
+- type: text
   name: weight
   label: weight
+  description: Make this article show up at the top of the list even if it is older.
+    Adding a "1" will bring it to the top.
