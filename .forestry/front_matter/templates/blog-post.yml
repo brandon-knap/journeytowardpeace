@@ -30,3 +30,4 @@ fields:
   default: '0'
 pages:
 - content/blog/dummy-post.md
+- content/resources/extra-new-resource.md
