@@ -19,7 +19,7 @@ fields:
 - type: text
   name: slug
   label: slug
-  description: This is what shows up in the address bar after "...com/blog/"
+  description: Change the URL of the page
   config:
     required: false
 - type: text
