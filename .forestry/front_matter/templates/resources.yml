@@ -28,5 +28,3 @@ fields:
   name: weight
   label: weight
   default: 0
-pages:
-- content/resources/bk-resource.md
