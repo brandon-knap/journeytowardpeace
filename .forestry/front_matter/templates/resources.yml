@@ -1,25 +1,30 @@
 ---
-label: Resources
-hide_body: true
+label: Resource
+hide_body: false
+display_field: title
 fields:
-- type: datetime
-  name: date
-  label: date
+- type: text
+  name: title
+  label: title
 - type: textarea
   name: description
   label: description
+- type: datetime
+  name: date
+  label: date
+  default: now
 - type: text
   name: resourcelink
   label: resourcelink
 - type: text
   name: resourcesource
-  label: resourcesource
+  label: Resource Source
+  description: Add a link to the resource
 - type: text
   name: slug
   label: slug
-- type: text
-  name: title
-  label: title
+  description: Change the URL of the page
 - type: number
   name: weight
   label: weight
+  default: 0
