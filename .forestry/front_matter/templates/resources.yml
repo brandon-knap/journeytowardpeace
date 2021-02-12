@@ -1,0 +1,25 @@
+---
+label: Resources
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: resourcelink
+  label: resourcelink
+- type: text
+  name: resourcesource
+  label: resourcesource
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
