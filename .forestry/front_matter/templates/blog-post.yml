@@ -12,6 +12,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: list
   name: categories
   label: categories
@@ -19,11 +20,14 @@ fields:
   name: slug
   label: slug
   description: This is what shows up in the address bar after "...com/blog/"
+  config:
+    required: false
 - type: text
   name: weight
   label: weight
   description: Make this article show up at the top of the list even if it is older.
     Adding a "1" will bring it to the top.
+  default: '0'
 pages:
 - content/blog/dummy-post.md
 - content/resources/new-resource.md
