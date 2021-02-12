@@ -24,3 +24,5 @@ fields:
   label: weight
   description: Make this article show up at the top of the list even if it is older.
     Adding a "1" will bring it to the top.
+pages:
+- content/blog/dummy-post.md
