@@ -26,3 +26,4 @@ fields:
     Adding a "1" will bring it to the top.
 pages:
 - content/blog/dummy-post.md
+- content/resources/new-resource.md
