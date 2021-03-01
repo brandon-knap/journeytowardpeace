@@ -29,4 +29,5 @@ fields:
     Adding a "1" will bring it to the top.
   default: '0'
 pages:
+- content/blog/adolescents-and-porn-addiction.md
 - content/blog/helpful-websites.md
