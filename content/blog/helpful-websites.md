@@ -8,14 +8,14 @@ title = "Helpful Websites:"
 weight = "0"
 
 +++
-National Assoication of Therapeutic Schools & Programs- www.natsap.org
+**National Assoication of Therapeutic Schools & Programs**- www.natsap.org
 
-Substance Abuse & Mental Health Services- www.samhsa.gov
+**Substance Abuse & Mental Health Services**- www.samhsa.gov
 
-Independent Educational Consultant Association- www.iecaonline.com
+**Independent Educational Consultant Association**- www.iecaonline.com
 
-Wrightslaw Special Education Law & Advocacy- www.wrightslaw.com
+**Wrightslaw Special Education Law & Advocacy**- www.wrightslaw.com
 
-National Counceil for Behavioral Health- www.thenationalcouncil.org
+**National Counceil for Behavioral Health**- www.thenationalcouncil.org
 
-Addiction Technology Transfer Center Network- www.attcnetwork.org
+**Addiction Technology Transfer Center Network**- www.attcnetwork.org
