@@ -2,7 +2,6 @@
 categories = []
 date = 2021-03-01T18:26:55Z
 description = ""
-draft = true
 slug = ""
 title = "Adolescents and Porn Addiction"
 weight = "1"
