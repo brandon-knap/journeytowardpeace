@@ -17,7 +17,6 @@ fields:
     schema:
       format: markdown
   label: Description
-  description: Fill this in for SEO It should be short but describe the testimonial.
 - name: weight
   type: number
   label: Weight
