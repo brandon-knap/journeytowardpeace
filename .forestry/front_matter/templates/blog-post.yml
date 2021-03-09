@@ -1,0 +1,33 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+  description: This shows up on the blog list page on the card
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: slug
+  label: slug
+  description: Change the URL of the page
+  config:
+    required: false
+- type: text
+  name: weight
+  label: weight
+  description: Make this article show up at the top of the list even if it is older.
+    Adding a "1" will bring it to the top.
+  default: '0'
+pages:
+- content/blog/adolescents-and-porn-addiction.md
+- content/blog/helpful-websites.md

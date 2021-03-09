@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2019-04-15T04:00:00+00:00"
+date = 2019-04-15T04:00:00Z
 description = ""
 slug = ""
 title = "Willing to do whatever it takes?"

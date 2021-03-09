@@ -2,7 +2,6 @@
 categories = []
 date = 2020-09-29T04:00:00Z
 description = ""
-draft = true
 slug = ""
 title = "Trauma and Healing"
 weight = "2"
@@ -13,3 +12,5 @@ When speaking with mental health professionals, the discussion often involves tr
 Therapeutic Wilderness therapy is an adventure-based therapy treatment modality for behavior modification and interpersonal self-improvement, combining experiential education, individual and group therapy in a wilderness setting. The clients are separated from electronics, phones, drugs and alcohol. They maintain their prescribed medication schedule, have healthy meals, consistent sleep schedules, exercise daily and participate in experiential activities. The peer and therapeutic support is available for growth and healing.
 
 Wilderness therapy programs should not be considered a “last resort”. They are often the best, safest places for a client to truly begin their journey to restoring a healthy and happy life, addressing their greatest challenges, and reconcile family communication.
+
+If you are considering a Therapeutic Wilderness treatment program for your adolescent or young adult, please contact Journey Toward Peace. We specialize in finding the right placement for your family.
