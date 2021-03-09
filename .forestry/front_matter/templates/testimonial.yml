@@ -1,4 +1,30 @@
 ---
 label: Testimonial
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: 'Suggested format: Sarah S. – Grand Rapids, MI'
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Fill this in for SEO It should be short but describe the testimonial.
+- name: weight
+  type: number
+  label: Weight
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
