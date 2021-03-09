@@ -1585,9 +1585,46 @@ footer {
 #resources {
   background-image: url("/img/fall-hug-hero-bg.jpg"); }
 
+#testimonials {
+  background-image: url("/img/testimonial-hero.jpg");
+  background-color: #f2f2f2; }
+  #testimonials .hero {
+    padding: 40vw 18% 30vw;
+    text-align: center; }
+  #testimonials #list-container {
+    background-color: #f2f2f2;
+    width: 100%;
+    padding: 80px 0 120px; }
+    #testimonials #list-container main {
+      margin: 0 !important; }
+      #testimonials #list-container main .content {
+        max-width: initial !important; }
+  #testimonials #contact-cta {
+    background-color: #485FF5;
+    color: white;
+    padding: 60px 6%;
+    text-align: center; }
+    #testimonials #contact-cta h2 {
+      font-size: 24px;
+      font-weight: 300;
+      letter-spacing: initial;
+      text-transform: initial; }
+    #testimonials #contact-cta p {
+      max-width: 600px;
+      margin: 0 auto;
+      font-size: 18px;
+      line-height: 1.5; }
+    #testimonials #contact-cta .btn {
+      background-color: transparent;
+      border: solid 2px white;
+      border-radius: 100px;
+      color: white;
+      font-weight: bold; }
+  #testimonials .articles {
+    margin-bottom: 60px; }
+
 .list-page {
   background: #ffffff;
-  background-image: url("/img/girls-flowers-hero-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -1632,7 +1669,18 @@ footer {
       list-style: none; }
       #blog aside li a {
         font-size: 14px;
-        line-height: 1; } }
+        line-height: 1; }
+
+  #testimonials .hero {
+    padding: 300px 18% 200px; }
+  #testimonials #list-container main .content .articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; }
+    #testimonials #list-container main .content .articles article.blog-post {
+      width: 48%; }
+  #testimonials #contact-cta p {
+    font-size: 21px; } }
 article.blog-post {
   padding: 32px 24px 16px;
   content: "";
@@ -1695,6 +1743,13 @@ article.blog-post {
   transition: all .5s; }
 #resources .blog-post .content {
   position: relative; }
+
+#testimonials h2 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px; }
+#testimonials p {
+  font-style: italic; }
 
 @media only screen and (min-width: 720px) {
   #resources .resourcelink {

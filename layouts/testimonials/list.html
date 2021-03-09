@@ -1,0 +1,44 @@
+{{ partial "meta.html" . }}
+{{ partial "header.html" . }}
+
+
+<!-- Main view -->
+  
+<div id="testimonials" class="list-page layout">
+	<!--
+	<aside class="animated fadeInLeft">
+		<h3>Categories</h3><br>
+		<ul>
+			<li><a href="/blog">All Categories</a></li>
+			{{ range $key, $value := .Site.Taxonomies.categories }}
+			<li><a href="/categories/{{ $key | urlize }}">{{ $key | title }}</a></li>
+    {{ end }}
+		</ul>
+	</aside>
+	-->
+
+<div class="hero">
+	<h1 class="animated fadeInUp">{{ .Title }}</h1>
+	<p class="list-description animated fadeInUp">It has been quite a journey for us over the past few years but it has been so worth it! We have been fortunate enough to help so many families and blessed to have recieved such positive feedback!</p>
+</div>
+<div id="list-container">
+  <main>
+		<div class="content">
+			<div class="articles animated fadeInUp">
+				{{ range .Pages.ByWeight }}	  
+					{{ .Render "li" }}
+				{{ end }}
+			</div>
+	  </div>
+  </main>
+  <div id="contact-cta">
+	  <H2>Contact Us</H2>
+	  <hr>
+	  <p>Does your family have a child that is struggling to be successful in school? Are they having issues finding their rhythm amonst their classmates? We are here for you!</p>
+	  <hr>
+	  <a class="btn" href="/contact">Contact Us</a>
+  </div>
+</div>
+</div>
+
+{{ partial "footer.html" . }}

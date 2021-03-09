@@ -4,9 +4,61 @@
 #resources{
 	background-image: url("/img/fall-hug-hero-bg.jpg");
 }
+#testimonials{
+	background-image: url("/img/testimonial-hero.jpg");
+	background-color: #f2f2f2;
+
+	.hero{
+		padding: 40vw 18% 30vw;
+		text-align: center;
+	}
+
+	#list-container{
+		background-color:#f2f2f2;
+		width: 100%;
+		padding: 80px 0 120px;
+
+		main{
+			margin: 0 !important;
+
+			.content{
+				max-width: initial !important;
+			}
+		}
+	}
+	#contact-cta{
+		background-color: $secondary;
+		color: white;
+		padding: 60px $site-padding;
+		text-align: center;
+		
+		h2{
+			font-size: 24px;
+			font-weight: 300;
+			letter-spacing: initial;
+			text-transform: initial;
+		}
+
+		p{
+			max-width: 600px;
+			margin: 0 auto;
+			font-size: 18px;
+			line-height: 1.5;
+		}
+		.btn{
+			background-color: transparent;
+			border: solid 2px white;
+			border-radius: 100px;
+			color: white;
+			font-weight: bold;
+		}
+	}
+	.articles{
+		margin-bottom: 60px;
+	}
+}
 .list-page{
 	background: #ffffff;
-	background-image: url("/img/girls-flowers-hero-bg.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -39,7 +91,7 @@
 		display: none;
 		z-index: 2;
 	}
-} 
+}
 @media (min-width:640px){
 #blog{
 	main{
@@ -68,4 +120,29 @@
 		} 
 	}
 } 
+#testimonials{
+	.hero{
+		padding: 300px 18% 200px;
+	}
+	#list-container{
+		main{
+			.content{
+				.articles{
+					display: flex;
+					flex-wrap: wrap;
+					justify-content: space-between;
+
+					article.blog-post{
+						width: 48%;
+					}
+				}
+			}
+		}
+	}
+	#contact-cta{
+		p{
+			font-size: 21px;
+		}
+	}
+}
 }
