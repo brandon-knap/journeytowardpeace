@@ -2,12 +2,12 @@
   position: relative;
   padding: 0 $site-padding;
   border-top: solid 6px $primary;
-  background-image: url(/img/contact-bg.jpg);
+  background-image: url(/img/contact-hero.jpg);
   background-size: cover;
   height: 100vh;    
 
   .content{
-      color: white;
+      color: $black;
       margin: 0 auto;
       padding: 50px 60px;
       box-sizing: border-box;

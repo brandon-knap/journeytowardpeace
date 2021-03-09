@@ -132,6 +132,9 @@
       }
     }
   }
+  #home-testimonials{
+    margin-top: 60px;
+  }
   #home-memberships{
     padding: 0 $site-padding 30px;
 
@@ -151,6 +154,34 @@
     }
   }
 }
+.testimonial-ribbon{
+    background-color: $secondary;
+    color: white;
+    padding: 60px $site-padding;
+    text-align: center;
+    
+    h2{
+      font-size: 24px !important;
+      font-weight: 300;
+      letter-spacing: initial !important;
+      text-transform: initial !important;
+    }
+
+    p{
+      max-width: 600px;
+      margin: 0 auto;
+      font-size: 18px;
+      font-style: italic;
+      line-height: 1.5;
+    }
+    .btn{
+      background-color: transparent;
+      border: solid 2px white;
+      border-radius: 100px;
+      color: white;
+      font-weight: bold;
+    }
+  }
 
 @media (min-width:640px){
 #home{
@@ -212,6 +243,11 @@
       padding-left: 5%;
     }
   }
+}
+.testimonial-ribbon{
+	p{
+		font-size: 20px;
+	}
 }
 }
 @media (min-width:720px){

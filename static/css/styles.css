@@ -1513,6 +1513,8 @@ footer {
       margin-bottom: 15px; }
     #home #home-about .ieca img {
       margin-bottom: 20px; }
+  #home #home-testimonials {
+    margin-top: 60px; }
   #home #home-memberships {
     padding: 0 6% 30px; }
     #home #home-memberships .content {
@@ -1524,6 +1526,29 @@ footer {
         box-sizing: border-box; }
         #home #home-memberships .content .item img {
           max-width: 300px; }
+
+.testimonial-ribbon {
+  background-color: #485FF5;
+  color: white;
+  padding: 60px 6%;
+  text-align: center; }
+  .testimonial-ribbon h2 {
+    font-size: 24px !important;
+    font-weight: 300;
+    letter-spacing: initial !important;
+    text-transform: initial !important; }
+  .testimonial-ribbon p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.5; }
+  .testimonial-ribbon .btn {
+    background-color: transparent;
+    border: solid 2px white;
+    border-radius: 100px;
+    color: white;
+    font-weight: bold; }
 
 @media (min-width: 640px) {
   #home #home-hero .content {
@@ -1561,7 +1586,10 @@ footer {
       display: inline-block;
       vertical-align: top;
       text-align: left;
-      padding-left: 5%; } }
+      padding-left: 5%; }
+
+  .testimonial-ribbon p {
+    font-size: 20px; } }
 @media (min-width: 720px) {
   #home #home-belowfold {
     padding-bottom: 0; }
@@ -1599,27 +1627,6 @@ footer {
       margin: 0 !important; }
       #testimonials #list-container main .content {
         max-width: initial !important; }
-  #testimonials #contact-cta {
-    background-color: #485FF5;
-    color: white;
-    padding: 60px 6%;
-    text-align: center; }
-    #testimonials #contact-cta h2 {
-      font-size: 24px;
-      font-weight: 300;
-      letter-spacing: initial;
-      text-transform: initial; }
-    #testimonials #contact-cta p {
-      max-width: 600px;
-      margin: 0 auto;
-      font-size: 18px;
-      line-height: 1.5; }
-    #testimonials #contact-cta .btn {
-      background-color: transparent;
-      border: solid 2px white;
-      border-radius: 100px;
-      color: white;
-      font-weight: bold; }
   #testimonials .articles {
     margin-bottom: 60px; }
 
@@ -1640,7 +1647,6 @@ footer {
   .list-page article {
     border-radius: 18px; }
   .list-page main {
-    max-width: 1300px;
     width: 100%;
     box-sizing: border-box; }
     .list-page main .content {
@@ -1676,11 +1682,9 @@ footer {
   #testimonials #list-container main .content .articles {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; }
+    justify-content: space-evenly; }
     #testimonials #list-container main .content .articles article.blog-post {
-      width: 48%; }
-  #testimonials #contact-cta p {
-    font-size: 21px; } }
+      width: 48%; } }
 article.blog-post {
   padding: 32px 24px 16px;
   content: "";
@@ -1866,11 +1870,11 @@ article.blog-post {
   position: relative;
   padding: 0 6%;
   border-top: solid 6px #8CE1D2;
-  background-image: url(/img/contact-bg.jpg);
+  background-image: url(/img/contact-hero.jpg);
   background-size: cover;
   height: 100vh; }
   #contact-section .content {
-    color: white;
+    color: #46464B;
     margin: 0 auto;
     padding: 50px 60px;
     box-sizing: border-box;

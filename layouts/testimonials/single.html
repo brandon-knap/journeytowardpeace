@@ -12,10 +12,6 @@
           </div>
           <div class="content animated fadeInUp">
               {{ .Content }}
-            <hr>
-            {{ range .Params.categories }}
-                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><span class="post-tag">{{ . }}</span></a>
-            {{ end }}
         </div>
 	  </article>
   </main>

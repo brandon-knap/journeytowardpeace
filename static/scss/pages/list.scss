@@ -26,33 +26,6 @@
 			}
 		}
 	}
-	#contact-cta{
-		background-color: $secondary;
-		color: white;
-		padding: 60px $site-padding;
-		text-align: center;
-		
-		h2{
-			font-size: 24px;
-			font-weight: 300;
-			letter-spacing: initial;
-			text-transform: initial;
-		}
-
-		p{
-			max-width: 600px;
-			margin: 0 auto;
-			font-size: 18px;
-			line-height: 1.5;
-		}
-		.btn{
-			background-color: transparent;
-			border: solid 2px white;
-			border-radius: 100px;
-			color: white;
-			font-weight: bold;
-		}
-	}
 	.articles{
 		margin-bottom: 60px;
 	}
@@ -79,7 +52,6 @@
 	}
 
 	main{
-		max-width: 1300px;
 		width: 100%;
 		box-sizing: border-box;
 
@@ -130,18 +102,13 @@
 				.articles{
 					display: flex;
 					flex-wrap: wrap;
-					justify-content: space-between;
+					justify-content: space-evenly;
 
 					article.blog-post{
 						width: 48%;
 					}
 				}
 			}
-		}
-	}
-	#contact-cta{
-		p{
-			font-size: 21px;
 		}
 	}
 }
