@@ -2,7 +2,6 @@
 categories = []
 date = 2021-03-12T15:43:15Z
 description = ""
-draft = true
 slug = ""
 title = "Program Descriptions for Teens with Emotional or Behavioral Disorders "
 weight = "0"
