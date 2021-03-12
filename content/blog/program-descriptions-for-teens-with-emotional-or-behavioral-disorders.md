@@ -4,7 +4,7 @@ date = 2021-03-12T15:43:15Z
 description = ""
 slug = ""
 title = "Program Descriptions for Teens with Emotional or Behavioral Disorders "
-weight = "0"
+weight = "1"
 
 +++
 After visiting a wide range of therapeutic programs, families can rely on an IECA member to guide them through the critical process of finding the right program for their child. The level of placement recommendation is determined by a very thorough process that includes the independent educational consultant working with the family, records review, and speaking with professionals that are involved with the case. Listed below are program descriptors for the continuum of care that is available. 
