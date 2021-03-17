@@ -2,7 +2,6 @@
 categories = []
 date = 2021-03-17T16:38:13Z
 description = ""
-draft = true
 slug = ""
 title = "Is our hild orried about an uncertain school year?"
 weight = "3"
