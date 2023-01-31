@@ -28,3 +28,7 @@ fields:
   name: weight
   label: weight
   default: 0
+pages:
+- content/resources/set-boundaries-find-peace-a-guide-to-reclaiming-yourself.md
+- content/resources/the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma.md
+- content/resources/the-journey-of-the-heroic-parent.md
