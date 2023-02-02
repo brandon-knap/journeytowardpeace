@@ -1587,6 +1587,9 @@ footer {
       vertical-align: top;
       text-align: left;
       padding-left: 5%; }
+    #home #home-about .content p, #home #home-about .content h4 {
+      font-size: 20px;
+      line-height: 2; }
 
   .testimonial-ribbon p {
     font-size: 20px; } }
