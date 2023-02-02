@@ -1,0 +1,293 @@
+#home{
+  background-image: url("/img/fall-girl-hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-color: $primary;
+
+  #read-more{
+    position: absolute;
+    top: -72px;
+  }
+  .home-section{
+    position: relative;
+    padding-bottom: $space-c;
+    background: white;
+  }
+  .home-section:after{
+    @include clearfix;
+  }
+  
+  #home-hero{
+    color: white;
+    height: 100vh;
+    text-align: center;
+    padding-left: $site-padding;
+    padding-right: $site-padding;
+
+    .content{
+      width: 640px;
+      display: inline-block;
+      margin-top:24vh;
+      max-width: 100%;
+
+      h1{
+        font-size:36px;
+        font-weight: 800;
+        margin-bottom: 16px;
+      }
+      .cta{
+        margin-top: 50px;
+        display: inline-block;
+        vertical-align: middle;
+
+        img{
+          margin-top: 0;
+          width: 110px;
+          -webkit-transition: all .2s;
+          transition: all .2s;
+        }
+        img:hover{
+          width: 120px;
+          margin-top:-5px;
+          -webkit-transition: all .2s;
+          transition: all .2s;
+        }
+      }
+      .cta.secondary{
+        margin-top: inital;
+
+        img{
+          margin-top: 0;
+          width: 70px;
+        }
+        img:hover{
+          width: 80px;
+        }
+      }
+      p{
+        font-size:17px;
+        line-height: 1.2;
+        text-shadow: 0px 2px 8px black;
+      }
+      .btn{ margin-top:16px; }
+      .btn:last-of-type{ margin-right:0; }
+    }
+  }
+  #home-belowfold{
+    background: white;
+    padding-bottom: $space-f;
+    position: relative;
+  }
+  #home-services{
+    padding: 0 $site-padding;
+
+    .service{
+      display: flex;
+      align-items: top;
+
+      img{
+        float: left;
+        width: 100px;
+        margin-top: -8px;
+      }
+      .content{
+        padding-left: 16px;
+      }
+    }
+  }
+  #home-about{
+    padding: 0 $site-padding;
+
+    img{
+      width: 100%;
+    }
+    .verse{
+      border-top: solid 2px $secondary;
+      border-bottom: solid 2px $secondary;
+      margin: 40px 0 30px;
+      padding: 20px 0 30px;;
+      text-align: center;
+
+      p{
+        font-size: 20px;
+        line-height: 1.4;
+      }
+
+      span{
+        font-weight: bold;
+        letter-spacing: .08rem;
+        text-transform: uppercase;
+        font-variant-numeric: tabular-nums;
+        font-size: 14px;
+      }
+    }
+    .ieca{
+      h4{
+        margin-bottom: 15px;
+      }
+      img{
+        margin-bottom: 20px;
+      }
+    }
+  }
+  #home-testimonials{
+    margin-top: 60px;
+  }
+  #home-memberships{
+    padding: 0 $site-padding 30px;
+
+    .content{
+      text-align: center;
+
+      .item{
+        display: inline-block;
+        margin-bottom: 40px;
+        padding: 0 15px;
+        box-sizing: border-box;
+
+        img{
+          max-width: 300px;
+        }
+      }
+    }
+  }
+}
+.testimonial-ribbon{
+    background-color: $secondary;
+    color: white;
+    padding: 60px $site-padding;
+    text-align: center;
+    
+    h2{
+      font-size: 24px !important;
+      font-weight: 300;
+      letter-spacing: initial !important;
+      text-transform: initial !important;
+    }
+
+    p{
+      max-width: 600px;
+      margin: 0 auto;
+      font-size: 18px;
+      font-style: italic;
+      line-height: 1.5;
+    }
+    .btn{
+      background-color: transparent;
+      border: solid 2px white;
+      border-radius: 100px;
+      color: white;
+      font-weight: bold;
+    }
+  }
+
+@media (min-width:640px){
+#home{
+  #home-hero{
+    .content{
+      margin-top:35vh;
+
+      h1{ font-size: 48px; }
+
+      .cta{
+        margin-top: 50px;
+        display: inline-block;
+        vertical-align: middle;
+
+        img{
+          width: 130px;
+        }
+        img:hover{
+          width: 140px;
+        }
+      }
+      .cta.secondary{
+        img{
+          width: 100px;
+        }
+        img:hover{
+          width: 110px;
+        }
+      }
+      p{
+        font-size:21px;
+      }
+    }   
+  }
+  #home-about{
+    text-align: center;
+
+    img{
+      vertical-align: top;
+    }
+    .about-left{
+      width: 35%;
+      display: inline-block;
+    }
+    .verse{
+      p{
+        font-size: 20px;
+        line-height: 1.4;
+      }
+      span{
+        font-size: 14px;
+      }
+    }
+    .content{
+      width: 55%;
+      display: inline-block;
+      vertical-align: top;
+      text-align: left;
+      padding-left: 5%;
+    }
+    .content{
+      p,h4{
+        font-size: 20px;
+        line-height: 2;
+      }
+    }
+  }
+}
+.testimonial-ribbon{
+	p{
+		font-size: 20px;
+	}
+}
+}
+@media (min-width:720px){
+#home{
+  #home-belowfold{
+    padding-bottom: 0;
+  }
+  #home-memberships{
+    .content{
+      .item{
+        width: 50%;
+        float: left;
+      }
+    }
+  }
+}
+}
+@media (min-width:815px){
+#home{
+  #home-services{
+    .service{
+      width: 50%;
+      float: left;
+      margin-bottom: 24px;
+      align-items: center;
+
+      img{
+        width: 120px;
+        margin-top: 0;
+      }
+      .content{
+        padding-right: 24px;
+      }
+    }
+  }
+}
+}

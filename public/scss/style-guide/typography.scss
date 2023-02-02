@@ -1,0 +1,108 @@
+
+
+
+/*---------- Typography ----------*/
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: $primary-font;
+    font-size:16px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+    font-weight: normal;
+    color: $black;
+}
+h1,h2,h3,h4,h5,h6{
+    line-height: 1.25;
+    font-family: $primary-font;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+    font-weight: bold;
+    outline: none !important;
+}
+
+h1{
+    font-size: 36px;
+    margin:0 0 30px;
+    padding:0;
+    font-family: $primary-font;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+}
+h2{
+    font-size: 24px;
+    font-weight: 300;
+    margin:0;
+    padding:0;
+    font-family: $primary-font; 
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+}
+h2.section-title{
+    text-align: center;
+    display: block;
+    padding: 50px 0 40px;
+}
+h2.section-title:after, h2.section-title:before{
+    content:"";
+    display: block;
+    width: 100%;
+    border-bottom: $dividing-line;
+}
+h2.section-title:after{
+    margin-top: 16px;
+}
+h2.section-title:before{
+    margin-bottom: 16px;
+}
+h3{
+    font-size:19px;
+    margin:$space-b 0 $space-b;
+}
+h4{
+    font-size:16px;
+    margin:$space-d 0 $space-b;
+}
+ul,ol{
+    margin: 0;
+    padding:0 0 $space-b $space-f;
+}
+p,li{
+    font-size:15px;
+    margin: $space-a 0 $space-c;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+    font-weight: normal;
+    line-height: 1.35rem;
+}
+li{
+    margin-bottom:$space-b;
+}
+strong,em,b,span{
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased !important;
+    font-weight: normal;
+}
+strong,b{
+    font-weight: bold;
+}
+p.caption{
+    font-size:13px;
+    font-style: italic;
+    opacity: .7;
+    margin:-4px 0 6px 0;
+}
+
+@media only screen and (min-width: 600px) {
+
+textarea:focus, input:focus{
+    outline: none !important;
+}
+/*
+h1{ font-size: 40px; }
+h2{ font-size: 28px; }
+*/
+}
+
+/*---------- End Typography ----------*/

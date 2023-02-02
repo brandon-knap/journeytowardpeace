@@ -1,0 +1,114 @@
+$site-padding: 6%;
+$fixed-content: 112px;
+$header-desktop: 80px;
+$header-mobile: 60px;
+
+// Layout Setup
+@mixin container-min-max{
+    box-sizing: border-box;
+    padding-left: $space-h;
+    padding-right: $space-h;
+    max-width:1440px;
+    min-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.container-max-width{
+    @include container-min-max;
+}
+
+@mixin container-max{
+    box-sizing: border-box;
+    padding-left: $site-padding;
+    padding-right: $site-padding;
+    max-width:1440px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.layout{
+    width:100%;
+    min-height: 100vh;
+    overflow:hidden;
+    max-width: 1440px;
+    margin: 0 auto;
+    background: white;
+
+    nav{
+        @include container-max;
+        .content{
+            border-bottom: $dividing-line;
+        }
+    }
+
+    main{
+        @include container-max;
+        margin:18vh auto;
+        position:relative;
+        box-sizing: border-box;
+    }
+    main:after{
+        @include clearfix;
+    }
+    article, aside{
+        box-sizing: border-box;
+    }
+}
+
+@media (min-width:1441px){
+.layout{
+    @include card-layer2;
+}
+}
+
+// Layout Standard
+.layout.standard{
+    article{
+        img{
+            margin-bottom:$space-e;
+        }
+    }
+    aside{
+        max-width:500px;
+        margin:0 auto $space-g;
+
+        ul.item-tags{
+            padding: 0;
+
+            li{
+                display: inline;
+                font-style: italic;
+                
+                a{ color: $text-secondary; }
+            }
+            li:last-of-type{
+                span{
+                    display: none;  
+                }
+            }
+        }
+    }
+}
+@media (min-width:960px){
+.layout.standard{
+    article{
+        width: 100%;
+        padding-left: 400px;
+        float: left;
+    }
+    aside{
+        width:356px;
+        border-left: $dividing-line;
+        padding-left: $space-d;
+        box-sizing: initial;
+        float: right;
+    }
+}
+}
+// Layout Blank
+.layout.blank{
+}
+@media (min-width:960px){
+.layout.blank{
+}
+}

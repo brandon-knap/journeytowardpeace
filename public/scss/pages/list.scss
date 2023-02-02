@@ -1,0 +1,115 @@
+#blog{
+	background-image: url("/img/girls-flowers-hero-bg.jpg");
+}
+#resources{
+	background-image: url("/img/fall-hug-hero-bg.jpg");
+}
+#testimonials{
+	background-image: url("/img/testimonial-hero.jpg");
+	background-color: #f2f2f2;
+
+	.hero{
+		padding: 40vw 18% 30vw;
+		text-align: center;
+	}
+
+	#list-container{
+		background-color:#f2f2f2;
+		width: 100%;
+		padding: 80px 0 120px;
+
+		main{
+			margin: 0 !important;
+
+			.content{
+				max-width: initial !important;
+			}
+		}
+	}
+	.articles{
+		margin-bottom: 60px;
+	}
+}
+.list-page{
+	background: #ffffff;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+	h1{
+		color: white;
+	}
+	.list-description{
+        color: white;
+		margin-bottom: 30px;
+		text-shadow: 0px 2px 8px black;
+		font-size: 18px;
+		font-style: italic;
+	}
+	article{
+		border-radius: 18px;
+	}
+
+	main{
+		width: 100%;
+		box-sizing: border-box;
+
+		.content{
+			max-width: 600px;
+		}
+	}
+	aside{
+		display: none;
+		z-index: 2;
+	}
+}
+@media (min-width:640px){
+#blog{
+	main{
+		/*padding-left: 300px;*/
+	}
+	aside{
+		display: block;
+		float: left;
+		position: fixed;
+		top: 0;
+		padding: 120px $space-e 400px;
+		box-sizing: border-box;
+		overflow-y: scroll;
+		height: 100vh;
+		@include card-layer2;
+
+		ul{
+			padding-left: 0;
+		}
+		li{
+			list-style: none;
+			a{
+				font-size: 14px;
+				line-height: 1;
+			}
+		} 
+	}
+} 
+#testimonials{
+	.hero{
+		padding: 300px 18% 200px;
+	}
+	#list-container{
+		main{
+			.content{
+				.articles{
+					display: flex;
+					flex-wrap: wrap;
+					justify-content: space-evenly;
+
+					article.blog-post{
+						width: 48%;
+					}
+				}
+			}
+		}
+	}
+}
+}

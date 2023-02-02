@@ -1,0 +1,29 @@
+$grid-space: 24px;
+
+.grid{
+    width: 100%;
+}
+.grid:after{
+    @include clearfix;
+}
+.grid{
+    width: calc(100% + 24px);
+
+    .grid-item{
+        box-sizing: border-box;
+        float: left;
+        padding-right: $grid-space;
+        padding-bottom: $grid-space;
+        -webkit-transition: width .25s;
+        transition: width .25s;
+    }
+}
+@media screen and (min-width: 768px) {
+.grid{
+    .grid-item{
+        width: 50%;
+        -webkit-transition: width .25s;
+        transition: width .25s;
+    }
+}
+}

@@ -1,0 +1,16 @@
+// CTA footer
+
+footer{
+    background: #555555;
+    padding: 40px $site-padding;
+    color: white;
+}
+@media (min-width:890px){
+
+footer{
+    #footer-geography{
+        float:left;
+        width: initial;
+    }
+}
+}

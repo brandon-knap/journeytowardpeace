@@ -1,0 +1,52 @@
+@mixin clearfix{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.desktop{
+    display:none;
+}
+span{
+    display:inline-block;
+}
+// Tables
+table{
+    width:100%;
+    font-size:14px;
+    border-collapse: collapse;
+
+    td{
+        vertical-align: top;
+    }
+
+    input[type=checkbox] {
+        margin:0;
+    }
+
+    td,th{
+        font-size:14px;
+        padding:12px $space-d 12px 0;
+    }
+    td:first-of-type,th:first-of-type{
+        padding-left:$space-d;
+    }
+}
+
+@media only screen and (min-width: 540px) {
+.desktop{
+    display:inline-block;
+}
+}
+@media only screen and (min-width: 960px) {
+table{
+    td,th{
+        padding:9px $space-d 9px 0;
+    }
+}
+}

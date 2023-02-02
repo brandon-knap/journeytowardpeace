@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on Journey Toward Peace</title>
+    <link>https://journeytowardpeace.com/testimonials/</link>
+    <description>Recent content in Testimonials on Journey Toward Peace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Journey Toward Peace {year}</copyright>
+    
+	<atom:link href="https://journeytowardpeace.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anne C. - Grand Rapids, MI</title>
+      <link>https://journeytowardpeace.com/testimonials/anne-c.grand-rapids-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://journeytowardpeace.com/testimonials/anne-c.grand-rapids-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristi D. - East Lansing, MI</title>
+      <link>https://journeytowardpeace.com/testimonials/kristi-d.east-lansing-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://journeytowardpeace.com/testimonials/kristi-d.east-lansing-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacia C.-Sparta, MI</title>
+      <link>https://journeytowardpeace.com/testimonials/stacia-c.sparta-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://journeytowardpeace.com/testimonials/stacia-c.sparta-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linda P. - Rockford, MI</title>
+      <link>https://journeytowardpeace.com/testimonials/linda-p.--parent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://journeytowardpeace.com/testimonials/linda-p.--parent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
