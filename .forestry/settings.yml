@@ -5,13 +5,6 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: content/testimonials
-  label: Testimonials
-  create: documents
-  match: "**/*"
-  templates:
-  - testimonial
-- type: directory
   path: content
   label: Pages
   create: all
@@ -21,6 +14,13 @@ sections:
   label: Resources
   create: all
   match: "**/*"
+- type: directory
+  path: content/testimonials
+  label: Testimonials
+  create: documents
+  match: "**/*"
+  templates:
+  - testimonial
 - type: directory
   path: content/blog
   label: Blog
