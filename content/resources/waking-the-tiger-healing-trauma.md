@@ -1,7 +1,6 @@
 +++
 date = 2020-09-30T04:00:00Z
 description = ""
-draft = true
 resourcelink = "https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X"
 resourcesource = "Peter Levine, PhD"
 slug = ""
