@@ -1,7 +1,7 @@
 +++
 date = 2023-01-10T15:09:19Z
 description = "\n"
-resourcelink = "https://drbradreedy.com › books"
+resourcelink = "drbradreedy.com"
 resourcesource = "Dr. Brad M. Reddy"
 slug = ""
 title = "The Journey of the Heroic Parent"
