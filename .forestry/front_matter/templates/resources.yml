@@ -29,6 +29,7 @@ fields:
   label: weight
   default: 0
 pages:
+- content/resources/into-the-wilds-a-mother-s-guide-to-wilderness-therapy.md
 - content/resources/organizations-providing-support-for-parents-loved-ones.md
 - content/resources/set-boundaries-find-peace-a-guide-to-reclaiming-yourself.md
 - content/resources/the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma.md
