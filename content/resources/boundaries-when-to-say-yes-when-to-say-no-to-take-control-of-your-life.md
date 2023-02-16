@@ -1,6 +1,7 @@
 +++
 date = 2020-01-21T05:00:00Z
 description = ""
+draft = true
 resourcelink = "cloudtownsend.com"
 resourcesource = "John Townsend and Henry Cloud"
 slug = ""
