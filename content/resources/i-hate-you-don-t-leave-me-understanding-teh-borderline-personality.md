@@ -1,6 +1,7 @@
 +++
 date = 2020-01-11T05:00:00Z
 description = ""
+draft = true
 resourcelink = "https://www.penguinrandomhouse.com/books/305626/i-hate-you--dont-leave-me-by-jerold-j-kreisman-md-and-hal-straus/"
 resourcesource = "Hal Straus and Jerold Jay Kreisman"
 slug = ""
