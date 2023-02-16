@@ -1,6 +1,7 @@
 +++
 date = 2020-01-11T05:00:00Z
 description = ""
+draft = true
 resourcelink = "https://brenebrown.com/books-audio/"
 resourcesource = "Brene Brown"
 slug = ""
