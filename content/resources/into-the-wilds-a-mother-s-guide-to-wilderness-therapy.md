@@ -1,7 +1,6 @@
 +++
 date = 2023-02-16T17:02:37Z
 description = ""
-draft = true
 resourcelink = "https://www.amazon.com/Into-Wilds-Mothers-Wilderness-Therapy-ebook/dp/B0B1QQ82TF"
 resourcesource = ""
 slug = ""
