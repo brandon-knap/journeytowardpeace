@@ -1,6 +1,7 @@
 +++
 date = 2020-01-11T05:00:00Z
 description = ""
+draft = true
 resourcelink = "www.BJLifton.com"
 resourcesource = "Betty Jean Lifton · 2008"
 slug = ""
