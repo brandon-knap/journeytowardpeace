@@ -2,6 +2,7 @@
 categories = []
 date = 2019-04-16T04:00:00Z
 description = ""
+draft = true
 resourcelink = "https://www.newharbinger.com/stop-walking-eggshells-second-edition"
 resourcesource = "Book by MASON PAUL and Randi Kreger"
 slug = ""
