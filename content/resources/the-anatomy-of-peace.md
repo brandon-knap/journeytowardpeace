@@ -2,7 +2,6 @@
 categories = []
 date = 2019-04-16T04:00:00Z
 description = ""
-draft = true
 resourcelink = "https://arbinger.com/Landing/AnatomyOfPeace.html"
 resourcesource = "The Arbinger Institute"
 slug = ""
