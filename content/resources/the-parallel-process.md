@@ -1,7 +1,6 @@
 +++
 date = 2023-02-15T17:12:21Z
 description = ""
-draft = true
 resourcelink = "https://www.goodreads.com/book/show/9416521-the-parallel-process"
 resourcesource = "Krissy Pozatek"
 slug = ""
