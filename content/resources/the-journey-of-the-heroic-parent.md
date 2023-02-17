@@ -1,11 +1,11 @@
 +++
 date = 2023-01-10T15:09:19Z
 description = "\n"
-resourcelink = ""
+resourcelink = "https://drbradreedy.com/"
 resourcesource = "Dr. Brad M. Reddy"
-slug = ""
+slug = "journey-of-the-heroic-parent"
 title = "The Journey of the Heroic Parent"
-weight = 1
+weight = 2
 
 +++
 When a child is hurting, it can be the most painful challenge a parent will face. With compassion and perspective, Dr. Brad Reedy offers hope and wisdom for children who struggle and the parents who love them. The Journey of the Heroic Parent will take you on a journey to a happier, healthier relationship with your struggling child—and yourself. Through lessons learned, mother, father, and child will achieve greater understanding, love, and humanity—no matter what the outcome.
