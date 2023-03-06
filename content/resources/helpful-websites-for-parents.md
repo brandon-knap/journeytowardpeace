@@ -1,7 +1,6 @@
 +++
 date = 2023-03-06T15:44:12Z
 description = ""
-draft = true
 resourcelink = ""
 resourcesource = ""
 slug = "2"
