@@ -1,7 +1,6 @@
 +++
 date = 2020-01-11T05:00:00Z
 description = ""
-draft = true
 resourcelink = "https://www.drhallowell.com/meet-dr-hallowell/publications/"
 resourcesource = "Edward M. Hallowell M.D., John J. Ratey M.D."
 slug = ""
