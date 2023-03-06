@@ -1,7 +1,6 @@
 +++
 date = 2023-01-10T14:39:01Z
 description = ""
-draft = true
 resourcelink = "https://www.nedratawwab.com/set-boundaries-find-peace-1"
 resourcesource = "Nedra Glover Tawwab"
 slug = ""
