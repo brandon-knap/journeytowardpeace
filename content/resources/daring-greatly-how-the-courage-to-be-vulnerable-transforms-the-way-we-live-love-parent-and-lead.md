@@ -6,7 +6,7 @@ resourcelink = "https://brenebrown.com/books-audio/"
 resourcesource = "Brene Brown"
 slug = ""
 title = "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
-weight = 0
+weight = "9"
 
 +++
 Every day we experience the uncertainty, risks, and emotional exposure that define what it means to be vulnerable or to dare greatly. Based on twelve years of pioneering research, Brené Brown PhD, LMSW, dispels the cultural myth that vulnerability is weakness and argues that it is, in truth, our most accurate measure of courage.
