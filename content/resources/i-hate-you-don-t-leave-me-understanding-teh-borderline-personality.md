@@ -6,7 +6,7 @@ resourcelink = "https://www.penguinrandomhouse.com/books/305626/i-hate-you--dont
 resourcesource = "Hal Straus and Jerold Jay Kreisman"
 slug = ""
 title = "I Hate You, Don't Leave Me: Understanding The Borderline Personality"
-weight = 0
+weight = "6"
 
 +++
 A revised and updated edition of the bestselling guide to understanding borderline personality disorder.
