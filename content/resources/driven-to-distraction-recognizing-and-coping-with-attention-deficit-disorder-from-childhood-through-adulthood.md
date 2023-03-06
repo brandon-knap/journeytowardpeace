@@ -6,7 +6,7 @@ resourcelink = "https://www.drhallowell.com/meet-dr-hallowell/publications/"
 resourcesource = "Edward M. Hallowell M.D., John J. Ratey M.D."
 slug = ""
 title = "Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
-weight = 0
+weight = "8"
 
 +++
 Groundbreaking and comprehensive, Driven to Distraction has been a lifeline to the approximately eighteen million Americans who are thought to have ADHD. Now the bestselling book is revised and updated with current medical information for a new generation searching for answers.
