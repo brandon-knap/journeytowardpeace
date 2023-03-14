@@ -1,6 +1,6 @@
 +++
 date = 2020-09-30T04:00:00Z
-description = ""
+description = "Waking the Tiger offers a new and hopeful vision of trauma."
 resourcelink = "https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X"
 resourcesource = "Peter Levine, PhD"
 slug = "waking-the-tiger-healing-trauma"
