@@ -1,6 +1,6 @@
 +++
 date = 2020-09-30T04:00:00Z
-description = "Waking the Tiger offers a new and hopeful vision of trauma."
+description = "Discover a new and hopeful perspective on trauma with Waking the Tiger. This insightful book explores the unique ability of humans to heal and offers practical steps to harness this innate capacity. Gain a deeper understanding of why wild animals rarely experience trauma and learn how to normalize the symptoms of trauma to begin the healing process. Access this valuable resource and start your journey towards healing today."
 resourcelink = "https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X"
 resourcesource = "Peter Levine, PhD"
 slug = "waking-the-tiger-healing-trauma"
