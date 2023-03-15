@@ -1,10 +1,10 @@
 +++
 date = 2023-02-15T17:12:21Z
-description = ""
+description = "Are you a parent of a troubled teenager looking for a way to help your family navigate this difficult time? The Parallel Process offers a unique approach that not only helps your child, but also allows you to recognize and change your own patterns of behavior that may be contributing to the family's struggles. Drawing on real-life case studies, Krissy Pozatek provides valuable insights on how to attune to emotions, set limits, and allow your child to take responsibility for their actions. This essential guide is a must-read for any parent seeking to help their family stay together and grow during the teenage years."
 resourcelink = "https://www.goodreads.com/book/show/9416521-the-parallel-process"
 resourcesource = "Krissy Pozatek"
 slug = ""
-title = "The Parallel Process: Growing Alongside Your Adolescent or Young Adult Child in Treatment"
+title = "The Parallel Process: A Guide for Parents of Troubled Teens"
 weight = 3
 
 +++
