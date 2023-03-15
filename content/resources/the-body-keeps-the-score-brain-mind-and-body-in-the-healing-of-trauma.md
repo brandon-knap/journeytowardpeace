@@ -1,7 +1,6 @@
 +++
 date = 2023-01-10T14:44:43Z
 description = ""
-draft = true
 resourcelink = "https://www.besselvanderkolk.com/resources/the-body-keeps-the-score"
 resourcesource = "Bessel van der Kolk M.D."
 slug = ""
