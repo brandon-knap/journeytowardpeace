@@ -5,7 +5,7 @@ resourcelink = ""
 resourcesource = ""
 slug = ""
 title = "Support Groups for Parents"
-weight = 0
+weight = nil
 
 +++
 Willows in the Wind (https://www.willowsinthewind.com/) --no fee
@@ -14,4 +14,4 @@ Partnership to End Addiction (https://drugfree.org/)--no fee
 
 National Alliance on Mental Illness (https://nami.org/)--no fee
 
-Other Parents Like Me (https://oplm.com/)--subscription
+Other Parents Like Me ([https://oplm.com/join/](https://oplm.com/join/ "https://oplm.com/join/"))--subscription
