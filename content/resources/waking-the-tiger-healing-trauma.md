@@ -4,7 +4,7 @@ description = "Discover a new and hopeful perspective on trauma with Waking the 
 resourcelink = "https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X"
 resourcesource = "Peter Levine, PhD"
 slug = "waking-the-tiger-healing-trauma"
-title = "Waking the Tiger: Healing Trauma"
+title = "Waking the Tiger: A New Vision of Healing Trauma"
 weight = 2
 
 +++
