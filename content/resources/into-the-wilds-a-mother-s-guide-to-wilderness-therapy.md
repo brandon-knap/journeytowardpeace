@@ -1,10 +1,10 @@
 +++
 date = 2023-02-16T17:02:37Z
-description = ""
+description = "Are you a parent struggling to help your teen with mental health issues, behavioral problems, or drug abuse? Traditional therapy not working? Learn how wilderness therapy can be a life-changing choice for your teen and your family. Michelle and Jenny share their experiences and insights in this must-read guide on who can benefit from wilderness therapy, how it works, and financial options."
 resourcelink = "https://www.amazon.com/Into-Wilds-Mothers-Wilderness-Therapy-ebook/dp/B0B1QQ82TF"
 resourcesource = ""
-slug = ""
-title = "Into the Wilds: A Mother's Guide to Wilderness Therapy"
+slug = "wilderness-therapy"
+title = "Wilderness Therapy: A Life-Changing Option for Struggling Teens"
 weight = 3
 
 +++
