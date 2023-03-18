@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
+description = "Join David Sheff as he recounts his emotional journey through his son's addiction to drugs, and his attempts to help Nic recover. Sheff shares his struggles with denial and preoccupation, and his refusal to give up on his son. A powerful and heart-wrenching story of love, addiction, and recovery."
 resourcelink = "https://www.davidsheff.com/beautiful-boy"
 resourcesource = "David Sheff"
-slug = ""
-title = "Beautiful Boy"
+slug = "beautiful-boy-david-sheff"
+title = "A Father's Journey Through His Son's Addiction: David Sheff's Heart-Wrenching Story"
 weight = "3"
 
 +++
