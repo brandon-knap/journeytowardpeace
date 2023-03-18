@@ -1,9 +1,9 @@
 +++
 date = 2023-02-15T17:45:56Z
-description = ""
+description = "Are you a parent of a troubled child and in need of support? This page provides links to organizations that can provide the support you need. "
 resourcelink = ""
 resourcesource = ""
-slug = ""
+slug = "support-for-parents"
 title = "Organizations Providing Support for Parents/Loved Ones"
 weight = 15
 
