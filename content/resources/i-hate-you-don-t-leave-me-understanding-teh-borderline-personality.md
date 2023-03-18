@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
+description = "Gain a deeper understanding of Borderline Personality Disorder (BPD) with this revised and updated guide. Explore the latest research on the neurobiological, genetic, and developmental roots of the disorder, as well as connections between BPD and substance abuse, PTSD, ADHD, and eating disorders. Discover the most promising pharmacological and psychotherapeutic treatments available today."
 resourcelink = "https://www.penguinrandomhouse.com/books/305626/i-hate-you--dont-leave-me-by-jerold-j-kreisman-md-and-hal-straus/"
 resourcesource = "Hal Straus and Jerold Jay Kreisman"
-slug = ""
-title = "I Hate You, Don't Leave Me: Understanding The Borderline Personality"
+slug = "i-hate-you-dont-leave-me"
+title = "Understanding Borderline Personality Disorder: A Revised Guide"
 weight = "6"
 
 +++
