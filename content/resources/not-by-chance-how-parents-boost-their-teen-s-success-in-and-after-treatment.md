@@ -1,10 +1,10 @@
 +++
 date = 2020-02-22T05:00:00Z
-description = ""
+description = "Dr. Tim Thayne's groundbreaking book, Not by Chance, provides hope, confidence, and concrete tools for families of struggling teens in residential or wilderness treatment programs. Learn how to coach your child through treatment, manage the transition home, and improve long-term success."
 resourcelink = "https://www.amazon.com/Not-Chance-Parents-Success-Treatment/dp/1599323176"
 resourcesource = "Tim Thayne"
-slug = ""
-title = "Not by Chance: How Parents Boost Their Teen's Success In and After Treatment"
+slug = "not-by-chance"
+title = "Not by Chance: A Guide for Families of Troubled Teens in Treatment"
 weight = 1
 
 +++
