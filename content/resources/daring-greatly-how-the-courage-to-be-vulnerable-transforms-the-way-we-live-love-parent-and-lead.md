@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
+description = "Discover how vulnerability can be the key to unlocking courage, love, creativity, and innovation in Brené Brown's groundbreaking book, Daring Greatly. Learn how to let go of the cultural myth that vulnerability is weakness and start living a life of purpose and meaning by stepping into the arena with courage and confidence."
 resourcelink = "https://brenebrown.com/books-audio/"
 resourcesource = "Brene Brown"
-slug = ""
-title = "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
+slug = "daring-greatly-how-vulnerability-can-be-your-greatest-strength"
+title = "Daring Greatly: How Vulnerability Can Be Your Greatest Strength"
 weight = "9"
 
 +++
