@@ -1,10 +1,10 @@
 +++
 date = 2023-01-10T14:39:01Z
-description = ""
+description = "Learn how to establish healthy boundaries in all aspects of life with Set Boundaries, Find Peace. Nedra Glover Tawwab, a licensed counselor and relationship expert, shares simple yet powerful techniques rooted in cognitive behavioral therapy to help you identify and express your needs, and overcome issues like codependency, power struggles, anxiety, and depression."
 resourcelink = "https://www.nedratawwab.com/set-boundaries-find-peace-1"
 resourcesource = "Nedra Glover Tawwab"
-slug = ""
-title = "Set Boundaries, Find Peace a guide to reclaiming yourself"
+slug = "set-boundaries-find-peace"
+title = "Set Boundaries, Find Peace: A Guide to Establishing Healthy Boundaries"
 weight = 1
 
 +++
