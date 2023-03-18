@@ -1,9 +1,9 @@
 +++
 date = 2023-03-06T15:44:12Z
-description = ""
+description = "Access a range of helpful resources for parents seeking information on behavioral health, education, advocacy, and legal support."
 resourcelink = ""
 resourcesource = ""
-slug = "2"
+slug = "helpful-websites-for-parents"
 title = "Helpful Websites for Parents"
 weight = 14
 
