@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
+description = "In her latest work, acclaimed author Betty Jean Lifton delves deeper into the adoption experience, examining the lifelong struggle of the adopted person to form an authentic sense of self. With insight and sensitivity, Lifton explores the crucial role of the search for roots in the journey toward wholeness, making this a must-read for adoptees and those who seek to understand them."
 resourcelink = "www.BJLifton.com"
 resourcesource = "Betty Jean Lifton · 2008"
-slug = ""
-title = "Journey Of The Adopted Self A Quest For Wholeness"
+slug = "journey-to-wholeness"
+title = "Journey to Wholeness: Betty Jean Lifton Explores the Inner World of the Adopted Person"
 weight = "4"
 
 +++
