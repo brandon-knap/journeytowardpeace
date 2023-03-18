@@ -1,10 +1,10 @@
 +++
 date = 2020-01-21T05:00:00Z
-description = ""
+description = "Discover the importance of boundaries in defining who you are and who you are not. Learn how physical, mental, emotional, and spiritual boundaries impact all areas of our lives. Dr. Henry Cloud and Dr. John Townsend provide biblically-based answers to tough questions and show us how to set healthy boundaries with our loved ones and ourselves."
 resourcelink = "cloudtownsend.com"
 resourcesource = "John Townsend and Henry Cloud"
-slug = ""
-title = "Boundaries: When to Say YES, When to Say NO, To Take Control of Your Life"
+slug = "the-importance-of-setting-boundaries-for-a-healthy-lifestyle"
+title = "The Importance of Setting Boundaries for a Healthy Lifestyle"
 weight = "10"
 
 +++
