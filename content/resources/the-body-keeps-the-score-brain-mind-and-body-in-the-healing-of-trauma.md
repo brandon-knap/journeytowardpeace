@@ -1,10 +1,10 @@
 +++
 date = 2023-01-10T14:44:43Z
-description = ""
+description = "Trauma can reshape the body and brain, compromising pleasure, self-control, and trust. In The Body Keeps the Score, Dr. Bessel van der Kolk shares innovative treatments, like neurofeedback and meditation, that activate the brain's natural neuroplasticity for recovery. Discover how to heal from trauma and reclaim your life with this essential resource."
 resourcelink = "https://www.besselvanderkolk.com/resources/the-body-keeps-the-score"
 resourcesource = "Bessel van der Kolk M.D."
-slug = ""
-title = "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
+slug = "the-body-keeps-the-score"
+title = "The Body Keeps the Score: Healing Trauma and Restoring Lives"
 weight = 2
 
 +++
