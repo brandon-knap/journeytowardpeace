@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
-resourcelink = ""
+description = "In Teens in Turmoil, authors Carol Maxym and Leslie York offer guidance to parents whose out-of-control teenagers are taking over their families. From small issues like fashion choices to more serious ones like drug use, this book helps parents turn their fear and desperation into hope and action, charting a course to get their families and teens back on track."
+resourcelink = "https://www.amazon.com/Teens-Turmoil-Parents-Adolescents-Families/dp/0140286039"
 resourcesource = "Carol Maxym & Leslie York"
-slug = ""
-title = "Teens in Turmoil: A Path to Change for Parents, Adolescents, and Their Families"
+slug = "teens-in-turmoil"
+title = "Teens in Turmoil: A Guide for Concerned Parents"
 weight = "11"
 
 +++
