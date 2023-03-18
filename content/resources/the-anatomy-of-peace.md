@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["resources", " conflict"]
 date = 2019-04-16T04:00:00Z
-description = ""
+description = "Discover the root of conflicts and how to resolve them in The Anatomy of Peace. This international bestseller uses a compelling story to explore the causes of our misunderstandings and perpetuation of problems. Learn from former adversaries and transform personal, professional, and even global conflicts with hope and reconciliation."
 resourcelink = "https://arbinger.com/Landing/AnatomyOfPeace.html"
 resourcesource = "The Arbinger Institute"
-slug = ""
-title = "The Anatomy of Peace"
+slug = "the-anatomy-of-peace"
+title = "Transforming Conflict with The Anatomy of Peace"
 weight = 0
 
 +++
