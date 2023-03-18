@@ -1,10 +1,10 @@
 +++
 date = 2020-01-11T05:00:00Z
-description = ""
+description = "Discover the latest medical information and coping tools for ADHD in this updated edition of the groundbreaking bestseller. Drs. Edward Hallowell and John Ratey offer vivid stories and case histories of patients, dispel common myths, and provide a thorough accounting of treatment options. Learn how to deal with a diagnosed child, partner, or family member, while also exploring the positives that can come with ADHD, such as high energy, creativity, and enthusiasm."
 resourcelink = "https://www.drhallowell.com/meet-dr-hallowell/publications/"
 resourcesource = "Edward M. Hallowell M.D., John J. Ratey M.D."
-slug = ""
-title = "Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+slug = "driven-to-distraction"
+title = "Driven to Distraction: A Comprehensive Guide to ADHD"
 weight = "8"
 
 +++
