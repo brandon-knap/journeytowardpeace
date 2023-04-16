@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Parenting", "Teen Mental Health"]
 date = 2019-04-15T04:00:00Z
-description = ""
-slug = ""
-title = "Willing to do whatever it takes?"
+description = "Follow the emotional journey of a parent who is willing to do whatever it takes to help their struggling teen, including finding the right therapeutic program, working through their own fears, and supporting their child's healing process."
+slug = "willing-to-do-whatever-it-takes"
+title = "Willing to Do Whatever it Takes: A Parent's Journey to Help Their Struggling Teen"
 weight = 1
 
 +++
