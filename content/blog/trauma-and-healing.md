@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Parenting", "Child Mental Health"]
 date = 2020-09-29T04:00:00Z
-description = ""
-slug = ""
-title = "Trauma and Healing"
+description = "Explore the impact of trauma on adolescent mental health, including common reactions, the importance of trauma-informed care, and strategies for supporting your child's healing journey."
+slug = "trauma-and-healing"
+title = "Trauma and Healing: Understanding the Impact of Trauma on Adolescent Mental Health"
 weight = "2"
 
 +++
