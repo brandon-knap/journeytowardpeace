@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Teen Mental Health", "Parenting"]
 date = 2023-01-31T19:16:05Z
-description = ""
-slug = ""
-title = "Things to know about self-harm"
+description = "Gain a deeper understanding of self-harm, including why adolescents and teens may engage in this behavior, signs to look for, and strategies for supporting your child's mental health and well-being."
+slug = "things-to-know-about-self-harm"
+title = "Understanding Self-Harm: What Parents and Caregivers Need to Know"
 weight = "2"
 
 +++
