@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Education", "Therapeutic Placement"]
 date = 2020-10-02T04:00:00Z
-description = "<p class=\"p2\"></p><p><br></p>"
-slug = ""
-title = "Working with an IECA Member Educational Consultant"
+description = "Discover the advantages of working with an IECA member educational consultant, including their expertise in therapeutic placements, knowledge of educational options, and personalized support."
+slug = "working-with-an-ieca-member-educational-consultant"
+title = "The Benefits of Working with an IECA Member Educational Consultant"
 weight = "1"
 
 +++
