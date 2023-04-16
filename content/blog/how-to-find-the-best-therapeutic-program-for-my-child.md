@@ -1,9 +1,9 @@
 +++
-categories = []
-date = "2019-06-01T04:00:00+00:00"
-description = ""
-slug = ""
-title = "How can Journey Toward Peace help?"
+categories = ["Parenting", "Child Mental Health"]
+date = 2019-06-01T04:00:00Z
+description = "Learn how to find the best therapeutic program for your child, including what to look for in a program, questions to ask, and resources to help you make an informed decision."
+slug = "find-the-best-therapeutic-program-for-your-child"
+title = "How to Find the Best Therapeutic Program for Your Child: A Guide for Parents"
 weight = 1
 
 +++
