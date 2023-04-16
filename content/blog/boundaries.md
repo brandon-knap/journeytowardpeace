@@ -1,13 +1,12 @@
 +++
-categories = []
-date = "2019-04-18T04:00:00+00:00"
-description = ""
-slug = ""
-title = "Boundaries"
+categories = ["Parenting", "Teen Mental Health"]
+date = 2019-04-18T04:00:00Z
+description = "Learn how to set healthy boundaries with your troubled teen, including the benefits of boundaries, strategies for enforcing them, and tips for practicing self-care as a parent."
+slug = "setting-boundaries-with-your-troubled-teen"
+title = "Setting Boundaries with Your Troubled Teen: A Guide for Parents"
 weight = 2
 
 +++
-
 Setting boundaries with our children is one of the most important things we can do for them. It is our responsibility as parents. However, setting firm boundaries with our children, especially our teen children, is very difficult!
 
 We have to follow some basic rules when setting boundaries for our children, as well as others:
