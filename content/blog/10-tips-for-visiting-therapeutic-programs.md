@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Parenting", "Child Mental Health"]
 date = 2020-10-02T04:00:00Z
-description = ""
-slug = ""
-title = "10 Tips for Visiting Therapeutic Programs"
+description = "Discover helpful tips for visiting therapeutic programs for your troubled teen, including what to observe, questions to ask, and how to make the most of your visit to ensure the best possible placement for your child."
+slug = "tips-for-visiting-therapeutic-programs"
+title = "10 Tips for Visiting Therapeutic Programs for Your Troubled Teen"
 weight = "2"
 
 +++
