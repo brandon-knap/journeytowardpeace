@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Education", "Consulting"]
 date = 2020-01-19T05:00:00Z
-description = ""
-slug = ""
-title = "Joy of Education Consulting"
+description = "Discover the fulfilling and rewarding work of education consulting, including the impact it can have on families, the joy of helping students find the right path, and the benefits of a career in this field."
+slug = "joy-of-education-consulting"
+title = "The Joy of Education Consulting: Helping Families Find the Right Path"
 weight = "1"
 
 +++
