@@ -1,9 +1,9 @@
 +++
-categories = []
-date = "2019-04-19T04:00:00+00:00"
-description = ""
-slug = ""
-title = "What if?"
+categories = ["Parenting"]
+date = 2019-04-19T04:00:00Z
+description = "Explore the common fears and uncertainties parents of troubled teens face, including the impact on family dynamics, the challenges of finding the right help, and strategies for managing these emotions."
+slug = "what-if-parenting-a-troubled-teen"
+title = "\"What If?\" Navigating the Uncertainty of Parenting a Troubled Teen"
 weight = 2
 
 +++
