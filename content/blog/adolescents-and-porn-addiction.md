@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Teen Mental Health", "Parenting"]
 date = 2021-03-01T18:26:55Z
-description = ""
-slug = ""
-title = "Adolescents and Porn Addiction"
+description = "Learn about the prevalence of porn addiction among adolescents, the harmful effects it can have, and how to recognize and address it as a parent or caregiver."
+slug = "adolescent-porn-addiction"
+title = "Understanding and Addressing Adolescent Porn Addiction"
 weight = "1"
 
 +++
