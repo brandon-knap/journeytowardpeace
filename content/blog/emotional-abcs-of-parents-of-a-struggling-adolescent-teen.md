@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Parenting", "Teen Mental Health"]
 date = 2020-07-10T04:00:00Z
-description = ""
-slug = ""
-title = "Emotional ABCs of Parents of a Struggling Adolescent/Teen"
+description = "Explore the emotional journey parents of struggling adolescents and teens often experience, including anger, blame, and compassion, and learn strategies to manage these emotions."
+slug = "emotional-abcs-of-parents-of-a-struggling-adolescent-teen"
+title = "The Emotional ABCs of Parents of a Struggling Adolescent or Teen"
 weight = "1"
 
 +++
