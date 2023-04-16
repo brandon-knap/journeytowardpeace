@@ -1,9 +1,9 @@
 +++
-categories = []
-date = "2019-04-16T04:00:00+00:00"
-description = ""
-slug = ""
-title = "Benefits of a Therapeutic Boarding School"
+categories = ["Parenting", "Child Mental Health"]
+date = 2019-04-16T04:00:00Z
+description = "Discover the unique benefits of a therapeutic boarding school for troubled teens, including the comprehensive care and support available, the structure and routine of the program, and the opportunities for growth and development."
+slug = "benefits-of-a-therapeutic-boarding-school"
+title = "The Benefits of a Therapeutic Boarding School for Troubled Teens"
 weight = 2
 
 +++
