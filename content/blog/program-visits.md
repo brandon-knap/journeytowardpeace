@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Parenting", "Teen Mental Health"]
 date = 2023-01-14T05:00:00Z
-description = ""
-slug = ""
-title = "Visiting Programs-things I have learned"
+description = "Discover the importance of program visits for parents of troubled teens, including how they can help with the healing process, build trust, and foster better communication."
+slug = "program-visits-for-parents-of-troubled-teens"
+title = "Exploring the Benefits of Program Visits for Parents of Troubled Teens"
 weight = "1"
 
 +++
@@ -13,4 +13,4 @@ One thing that I have found to be consistent among all programs I have visited, 
 
 One of the things that I have enjoyed the most during the visits is speaking with the students. It is wonderful to be able to hear them talk about how they came to be in the program, what they have learned, and what they plan to do in the future. Most students say that when they first arrived at wilderness/therapeutic boarding school/residential treatment they were angry about being in treatment. Most didn't take responsibility for their behavior and placed blame on those around them. However, overwhelmingly, the students say that through the process, they began to realize the impact of their behavior on others, and how their choices were not working for them, and became willing to own their role in relationships.
 
-The ability for our adolescents and young adults to remove themselves from the distractions around them, and focus on what is at the root of their struggle, is an amazing gift. I speak with parents often and I am often told how the social relationships their child developed at home, were not positive. Many of the adolescents/young adults use social media excessively, and often inappropriately. They may be experimenting with substances, and rebelling against family rules. Being able to be in an environment where they are removed from external influences, can be a very freeing experience for the students. 
+The ability for our adolescents and young adults to remove themselves from the distractions around them, and focus on what is at the root of their struggle, is an amazing gift. I speak with parents often and I am often told how the social relationships their child developed at home, were not positive. Many of the adolescents/young adults use social media excessively, and often inappropriately. They may be experimenting with substances, and rebelling against family rules. Being able to be in an environment where they are removed from external influences, can be a very freeing experience for the students.
