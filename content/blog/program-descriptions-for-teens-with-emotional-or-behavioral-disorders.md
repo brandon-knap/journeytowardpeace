@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Teen Mental Health", "Parenting"]
 date = 2021-03-12T15:43:15Z
-description = ""
-slug = ""
-title = "Program Descriptions for Teens with Emotional or Behavioral Disorders "
+description = "Explore detailed program descriptions for teens with emotional or behavioral disorders, including therapeutic boarding schools, residential treatment centers, wilderness therapy programs, and more."
+slug = "program-descriptions-for-teens-with-emotional-or-behavioral-disorders"
+title = "Comprehensive Program Descriptions for Teens with Emotional or Behavioral Disorders"
 weight = "1"
 
 +++
@@ -23,4 +23,4 @@ TRANSITIONAL INDEPENDENT LIVING PROGRAMS These programs are designed to serve yo
 
 IECA member consultants who specialize in therapeutic placements have extensive experience with mental health diagnoses, adolescent behaviors, substance abuse, emotional disabilities, and learning differences. They are able to help families during a time of crisis and offer support and direction to recommend the best intervention and solution. 
 
-info@IECAonline.com Independent Educational Consultants Association 
+info@IECAonline.com Independent Educational Consultants Association
