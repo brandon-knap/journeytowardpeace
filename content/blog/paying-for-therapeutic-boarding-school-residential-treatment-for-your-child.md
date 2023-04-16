@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["Parenting", "Child Mental Health", ""]
 date = 2023-01-24T18:56:59Z
-description = ""
-slug = ""
-title = "Paying for Therapeutic Boarding School/Residential Treatment for your Child"
+description = "Learn about the different options for paying for therapeutic boarding school or residential treatment for your child, including insurance, scholarships, loans, and grants."
+slug = "paying-for-therapeutic-boarding-school-residential-treatment-for-your-child"
+title = "A Guide to Paying for Therapeutic Boarding School or Residential Treatment for Your Child"
 weight = "1"
 
 +++
