@@ -1,6 +1,6 @@
 +++
 date = 2023-01-10T15:09:19Z
-description = "\nAre you a parent struggling to help your child through mental health issues, addiction, depression, or other challenges? The Journey of the Heroic Parent offers hope and wisdom for parents facing these difficult situations. Dr. Brad Reedy provides valuable insights on how to effect positive change in your own behavior and communicate effectively with your child. This journey will teach you to find peace and security in your skills as a parent, and help you achieve greater understanding, love, and humanity with your child. Discover how to be a heroic parent and find hope for your struggling child with this essential resource."
+description = "\n"
 resourcelink = "drbradreedy.com"
 resourcesource = "Dr. Brad M. Reddy"
 slug = "journey-of-the-heroic-parent"
